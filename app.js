@@ -7,12 +7,17 @@ app.use(bodyParser.urlencoded({ extended: false }))
 var port = 5000
 app.set('port', (process.env.PORT || port))
 
-var index = 0
+var game = 'pesislive-2017-02-19-veto-jymyjussit'
+var index = 1
 
 app.use(express.static(__dirname + '/static'))
 
 app.get('/', function (req, res) {
   res.send('Hello World!')
+})
+
+app.get('/api/status', function (req, res) {
+  res.sendFile(__dirname + '/static/' + game + '/status-' + index + '.json');
 })
 
 app.post('/api/index', function(req, res){
