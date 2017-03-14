@@ -1,5 +1,6 @@
 var express = require('express')
 var bodyParser = require('body-parser')
+var schedule = require('node-schedule')
 
 var app = express()
 app.use(bodyParser.json())
@@ -17,13 +18,22 @@ app.get('/', function (req, res) {
 })
 
 app.get('/api/status', function (req, res) {
-  res.sendFile(__dirname + '/static/' + game + '/status-' + index + '.json');
+  var path = __dirname + '/static/' + game + '/status-' + index + '.json'
+  console.log("Returning state: " + path)
+  res.sendFile(path)
 })
 
 app.post('/api/index', function(req, res){
   console.log("Setting index to " + req.body.index)
   index = req.body.index
   res.send( '{"status": "ok", "index": ' + index + '}' )
+})
+
+var j = schedule.scheduleJob('* * * * * *', function() {
+  index = index + 1
+  if (index > 1119) {
+    index = 1
+  }
 })
 
 app.listen(app.get('port'), function () {
