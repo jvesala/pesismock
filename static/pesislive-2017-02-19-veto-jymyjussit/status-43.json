@@ -1,0 +1,903 @@
+{
+  "home_id": "Vimpeli",
+  "spectators": 0,
+  "score_grid": {
+    "first_batting_team": null,
+    "home": [
+      1,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "visitor": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "teams": "Veto - JymyJussit",
+  "division": "msuper",
+  "current_inning": 0,
+  "pesistv": false,
+  "visitor_full_name": "JymyJussit",
+  "stats": {
+    "home_info": {
+      "walks": 0,
+      "situation3": 1,
+      "manager": "Sami-Pettteri Kivim\u00e4ki Jussi Haapakoski",
+      "wthrows": 0
+    },
+    "spectators": 0,
+    "home": [
+      {
+        "kl_percent": "0%",
+        "cif": [
+          "kl1",
+          "kl"
+        ],
+        "kl1": "0/1",
+        "kl": "0/1",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Teemu Isoketo",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent"
+        ],
+        "klk": "",
+        "number": 1,
+        "can_hit": false,
+        "up": "2K"
+      },
+      {
+        "kl_percent": "100%",
+        "cif": [],
+        "kl1": "1/1",
+        "kl": "1/1",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Sami Haapakoski",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent",
+          "kl1",
+          "kl"
+        ],
+        "klk": "",
+        "number": 2,
+        "can_hit": false,
+        "up": "2V"
+      },
+      {
+        "kl_percent": "100%",
+        "cif": [],
+        "kl1": "",
+        "kl": "1/1",
+        "kl2": "1/1",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Mikko Kanala",
+        "kl3": "",
+        "tu": "1",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent",
+          "kl",
+          "kl2",
+          "tu"
+        ],
+        "klk": "",
+        "number": 3,
+        "can_hit": false,
+        "up": "3P"
+      },
+      {
+        "kl_percent": "0%",
+        "cif": [
+          "kl",
+          "kl3"
+        ],
+        "kl1": "",
+        "kl": "0/1",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Henri Puputti",
+        "kl3": "0/1",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent"
+        ],
+        "klk": "",
+        "number": 4,
+        "can_hit": false,
+        "up": "3K"
+      },
+      {
+        "kl_percent": "67%",
+        "cif": [
+          "kl2"
+        ],
+        "kl1": "",
+        "kl": "2/3",
+        "kl2": "0/1",
+        "cp": [],
+        "cpf": [],
+        "ly": "1",
+        "p": "",
+        "name": "Matias Rinta-aho",
+        "kl3": "1/1",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent",
+          "kl",
+          "ly",
+          "kl3",
+          "klk"
+        ],
+        "klk": "1/1",
+        "number": 5,
+        "can_hit": false,
+        "up": "S"
+      },
+      {
+        "kl_percent": "100%",
+        "cif": [],
+        "kl1": "1/1",
+        "kl": "1/1",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Olli Heikkala",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent",
+          "kl1",
+          "kl"
+        ],
+        "klk": "",
+        "number": 6,
+        "can_hit": false,
+        "up": "1V"
+      },
+      {
+        "kl_percent": "100%",
+        "cif": [],
+        "kl1": "",
+        "kl": "1/1",
+        "kl2": "1/1",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Arttu Ruuska",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 1,
+        "ci": [
+          "kl_percent",
+          "kl",
+          "kl2"
+        ],
+        "klk": "",
+        "number": 7,
+        "can_hit": false,
+        "up": "3V"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Severi Lassila",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 0,
+        "ci": [],
+        "klk": "",
+        "number": 8,
+        "can_hit": false,
+        "up": "2P"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Janne Heimonen",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 0,
+        "ci": [],
+        "klk": "",
+        "number": 9,
+        "can_hit": true,
+        "up": "L"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Timo Hanhisalo",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 0,
+        "ci": [],
+        "klk": "",
+        "number": 10,
+        "can_hit": true,
+        "up": ""
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Perttu Ruuska",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 0,
+        "ci": [],
+        "klk": "",
+        "number": 11,
+        "can_hit": true,
+        "up": ""
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "cpf": [],
+        "ly": "",
+        "p": "",
+        "name": "Janne M\u00e4kel\u00e4",
+        "kl3": "",
+        "tu": "",
+        "has_hit": 0,
+        "ci": [],
+        "klk": "",
+        "number": 12,
+        "can_hit": true,
+        "up": ""
+      },
+      {
+        "kl_percent": "67%",
+        "cif": [],
+        "kl1": "2/3",
+        "kl": "6/9",
+        "kl2": "2/3",
+        "cp": [],
+        "ly": "1",
+        "p": "",
+        "name": "",
+        "kl3": "1/2",
+        "tu": "1",
+        "cpf": [],
+        "ci": [],
+        "klk": "1/1",
+        "number": "",
+        "can_hit": true,
+        "up": ""
+      }
+    ],
+    "visitor_info": {
+      "walks": 0,
+      "situation3": 0,
+      "manager": "Mikko Vainionp\u00e4\u00e4 Pasi Tyynel\u00e4",
+      "wthrows": 0
+    },
+    "visitor": [
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Tuomas Raunio",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 1,
+        "up": "2K"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Toni Marjam\u00e4ki",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 2,
+        "up": "1V"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Ville Hotakainen",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 3,
+        "up": "2P"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Tero Tyynel\u00e4",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 4,
+        "up": "2V"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Severi Piispanen",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 5,
+        "up": "3V"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Miika Anttila",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 6,
+        "up": "S"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Elmeri Lieto",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 7,
+        "up": "3P"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Henri It\u00e4valo",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 8,
+        "up": "L"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Miika Laitam\u00e4ki",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 9,
+        "up": "3K"
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Jukka-Pekka Vainionp\u00e4\u00e4",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 10,
+        "up": ""
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Markus Hallasuo",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 11,
+        "up": ""
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "",
+        "kl": "",
+        "kl2": "",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "Atte Kontio",
+        "kl3": "",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "",
+        "number": 12,
+        "up": ""
+      },
+      {
+        "kl_percent": "",
+        "cif": [],
+        "kl1": "0/0",
+        "kl": "0/0",
+        "kl2": "0/0",
+        "cp": [],
+        "ly": "",
+        "p": "",
+        "name": "",
+        "kl3": "0/0",
+        "tu": "",
+        "cpf": [],
+        "ci": [],
+        "klk": "0/0",
+        "number": "",
+        "up": ""
+      }
+    ]
+  },
+  "home_full_name": "Vimpelin Veto",
+  "score": "0 - 0 (1-0, x-x)",
+  "preroster": null,
+  "log": {
+    "last_batter_pos": 9,
+    "log": [
+      {
+        "batter": [
+          {
+            "number": "1",
+            "name": "Teemu Isoketo"
+          },
+          "",
+          "",
+          ""
+        ],
+        "tobase": [
+          "karkihaava",
+          "",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "1",
+          "name": "Teemu Isoketo"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "2",
+            "name": "Sami Haapakoski"
+          },
+          {
+            "number": "3",
+            "name": "Mikko Kanala"
+          },
+          {
+            "number": "4",
+            "name": "Henri Puputti"
+          },
+          null
+        ],
+        "tobase": [
+          "karkivaihto",
+          "karkivaihto",
+          "karkipalo",
+          ""
+        ],
+        "runner": {
+          "number": "2",
+          "name": "Sami Haapakoski"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "3",
+            "name": "Mikko Kanala"
+          },
+          {
+            "number": "4",
+            "name": "Henri Puputti"
+          },
+          {
+            "number": "5",
+            "name": "Matias Rinta-aho"
+          },
+          {
+            "number": "5",
+            "name": "Matias Rinta-aho"
+          }
+        ],
+        "tobase": [
+          "takavaihto",
+          "takavaihto",
+          "karkivaihto",
+          "karkivaihto"
+        ],
+        "runner": {
+          "number": "3",
+          "name": "Mikko Kanala"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "4",
+            "name": "Henri Puputti"
+          },
+          {
+            "number": "5",
+            "name": "Matias Rinta-aho"
+          },
+          null,
+          null
+        ],
+        "tobase": [
+          "takavaihto",
+          "karkihaava",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "4",
+          "name": "Henri Puputti"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "5",
+            "name": "Matias Rinta-aho"
+          },
+          null,
+          null,
+          null
+        ],
+        "tobase": [
+          "takahaava",
+          "",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "5",
+          "name": "Matias Rinta-aho"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "6",
+            "name": "Olli Heikkala"
+          },
+          {
+            "number": "7",
+            "name": "Arttu Ruuska"
+          },
+          null,
+          null
+        ],
+        "tobase": [
+          "karkivaihto",
+          "karkivaihto",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "6",
+          "name": "Olli Heikkala"
+        }
+      },
+      {
+        "batter": [
+          {
+            "number": "7",
+            "name": "Arttu Ruuska"
+          },
+          null,
+          null,
+          null
+        ],
+        "tobase": [
+          "takavaihto",
+          "",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "7",
+          "name": "Arttu Ruuska"
+        }
+      },
+      {
+        "batter": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "tobase": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "8",
+          "name": "Severi Lassila"
+        }
+      }
+    ],
+    "round": 1,
+    "turns_left": 1,
+    "inning": "1J 1A"
+  },
+  "home_logo": "static/logot/vive_80.png",
+  "id": "5rSBlH",
+  "media": [],
+  "location": {
+    "lat": 62.78451919555664,
+    "city": "Sein\u00e4joki",
+    "stadium": "Sein\u00e4joki Areena",
+    "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+    "lon": 22.822664260864258
+  },
+  "series_name": "Miesten Superpesis",
+  "visitor_logo": "static/logot/jymyjussit_80.png",
+  "end_time": null,
+  "field": {
+    "2base": {
+      "number": "6",
+      "name": "Olli Heikkala",
+      "stats": {
+        "kl_percent": 0,
+        "tu": 0,
+        "ly": 0,
+        "kl1": 0,
+        "klk": 0,
+        "kl": 0,
+        "kl2": 0,
+        "ku": 0,
+        "kl3": 0
+      }
+    },
+    "1base": {
+      "number": "7",
+      "name": "Arttu Ruuska",
+      "stats": {
+        "kl_percent": 0,
+        "tu": 0,
+        "ly": 0,
+        "kl1": 0,
+        "klk": 0,
+        "kl": 0,
+        "kl2": 0,
+        "ku": 0,
+        "kl3": 0
+      }
+    },
+    "3base": {
+      "number": "",
+      "name": "",
+      "stats": {
+        "kl_percent": 0,
+        "tu": 0,
+        "ly": 0,
+        "kl1": 0,
+        "klk": 0,
+        "kl": 0,
+        "kl2": 0,
+        "ku": 0,
+        "kl3": 0
+      }
+    },
+    "hbase": {
+      "number": "8",
+      "name": "Severi Lassila",
+      "stats": {
+        "kl_percent": 0,
+        "tu": 0,
+        "ly": 0,
+        "kl1": 0,
+        "klk": 0,
+        "kl": 0,
+        "kl2": 0,
+        "ku": 0,
+        "kl3": 0
+      }
+    }
+  },
+  "visitor_id": "Sein\u00e4joki",
+  "start_time": null,
+  "phase_name": "HalliSM",
+  "status": "active",
+  "scheduled_start_time": "19.02.2017 klo 16.00",
+  "voting": {
+    "enabled": true
+  },
+  "home": "Veto",
+  "weather": [
+    {
+      "symbol": "31",
+      "temperature": "2",
+      "time": "16:00"
+    },
+    {
+      "symbol": "31",
+      "temperature": "3",
+      "time": "17:00"
+    },
+    {
+      "symbol": "31",
+      "temperature": "3",
+      "time": "18:00"
+    },
+    {
+      "symbol": "32",
+      "temperature": "2",
+      "time": "19:00"
+    },
+    {
+      "symbol": "82",
+      "temperature": "2",
+      "time": "20:00"
+    }
+  ],
+  "outs": "X",
+  "batting_team": "home",
+  "score_list": [
+    {
+      "batter": "Matias Rinta-aho",
+      "runner": "Mikko Kanala",
+      "event": "1 - 0",
+      "team": "Veto",
+      "inning": "1J 1A"
+    }
+  ],
+  "visitor": "JymyJussit"
+}
