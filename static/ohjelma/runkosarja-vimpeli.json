@@ -1,184 +1,32 @@
-[
-  {
-    "url": "http://pesislive.fi/#gamePage?id=XtOhk0",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "JymyJussit",
-    "id": "XtOhk0",
-    "time_begin": "2017-05-06T15:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=umUBIi",
-    "hometeam": "Pattijoen Urheilijat",
-    "visitorteam": "Vimpelin Veto",
-    "id": "umUBIi",
-    "time_begin": "2017-05-11T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=iz5t2H",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Hyvinkään Tahko",
-    "id": "iz5t2H",
-    "time_begin": "2017-05-14T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=ES7ijw",
-    "hometeam": "Kankaanpään Maila",
-    "visitorteam": "Vimpelin Veto",
-    "id": "ES7ijw",
-    "time_begin": "2017-05-19T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=o3D2hN",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Imatran Pallo-Veikot",
-    "id": "o3D2hN",
-    "time_begin": "2017-05-26T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=m086RN",
-    "hometeam": "Kouvolan Pallonlyöjät",
-    "visitorteam": "Vimpelin Veto",
-    "id": "m086RN",
-    "time_begin": "2017-05-28T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=GRBmHW",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Koskenkorvan Urheilijat",
-    "id": "GRBmHW",
-    "time_begin": "2017-05-30T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=9MIEZk",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Sotkamon Jymy",
-    "id": "9MIEZk",
-    "time_begin": "2017-06-02T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=x8sgWz",
-    "hometeam": "Kempeleen Kiri",
-    "visitorteam": "Vimpelin Veto",
-    "id": "x8sgWz",
-    "time_begin": "2017-06-04T17:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=MdBJbZ",
-    "hometeam": "Kiteen Pallo -90",
-    "visitorteam": "Vimpelin Veto",
-    "id": "MdBJbZ",
-    "time_begin": "2017-06-06T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=kf8tHx",
-    "hometeam": "Alajärven Ankkurit",
-    "visitorteam": "Vimpelin Veto",
-    "id": "kf8tHx",
-    "time_begin": "2017-06-09T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=0ef9eG",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Joensuun Maila",
-    "id": "0ef9eG",
-    "time_begin": "2017-06-11T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=w5l2en",
-    "hometeam": "Oulun Lippo Pesis",
-    "visitorteam": "Vimpelin Veto",
-    "id": "w5l2en",
-    "time_begin": "2017-06-15T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=KJL88A",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Kempeleen Kiri",
-    "id": "KJL88A",
-    "time_begin": "2017-06-17T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=sOuuC1",
-    "hometeam": "Sotkamon Jymy",
-    "visitorteam": "Vimpelin Veto",
-    "id": "sOuuC1",
-    "time_begin": "2017-06-20T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=VETfiI",
-    "hometeam": "Joensuun Maila",
-    "visitorteam": "Vimpelin Veto",
-    "id": "VETfiI",
-    "time_begin": "2017-06-28T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=wr6sOz",
-    "hometeam": "Imatran Pallo-Veikot",
-    "visitorteam": "Vimpelin Veto",
-    "id": "wr6sOz",
-    "time_begin": "2017-06-29T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=nAKnkN",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Kouvolan Pallonlyöjät",
-    "id": "nAKnkN",
-    "time_begin": "2017-07-06T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=qNxj03",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Alajärven Ankkurit",
-    "id": "qNxj03",
-    "time_begin": "2017-07-09T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=PbSP21",
-    "hometeam": "Hyvinkään Tahko",
-    "visitorteam": "Vimpelin Veto",
-    "id": "PbSP21",
-    "time_begin": "2017-07-11T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=uqXX94",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Pattijoen Urheilijat",
-    "id": "uqXX94",
-    "time_begin": "2017-07-14T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=rPTxL0",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Kiteen Pallo -90",
-    "id": "rPTxL0",
-    "time_begin": "2017-07-16T16:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=xNVE8h",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Kankaanpään Maila",
-    "id": "xNVE8h",
-    "time_begin": "2017-07-18T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=zH4uZX",
-    "hometeam": "Koskenkorvan Urheilijat",
-    "visitorteam": "Vimpelin Veto",
-    "id": "zH4uZX",
-    "time_begin": "2017-07-21T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=bEj13B",
-    "hometeam": "Vimpelin Veto",
-    "visitorteam": "Oulun Lippo Pesis",
-    "id": "bEj13B",
-    "time_begin": "2017-07-25T18:00:00+03:00"
-  },
-  {
-    "url": "http://pesislive.fi/#gamePage?id=vjfgNu",
-    "hometeam": "JymyJussit",
-    "visitorteam": "Vimpelin Veto",
-    "id": "vjfgNu",
-    "time_begin": "2017-07-27T18:00:00+03:00"
-  }
-]
+{"url":"http://pesislive.fi/#gamePage?id=XtOhk0","hometeam":"Vimpelin Veto","visitorteam":"JymyJussit","id":"XtOhk0","time_begin":"2017-05-06T15:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (6-2, 8-1)"}
+{"url":"http://pesislive.fi/#gamePage?id=iz5t2H","hometeam":"Vimpelin Veto","visitorteam":"Hyvinkään Tahko","id":"iz5t2H","time_begin":"2017-05-14T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (3-1, 8-3)"}
+{"url":"http://pesislive.fi/#gamePage?id=ES7ijw","hometeam":"Kankaanpään Maila","visitorteam":"Vimpelin Veto","id":"ES7ijw","time_begin":"2017-05-19T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (0-6, 2-11)"}
+{"url":"http://pesislive.fi/#gamePage?id=umUBIi","hometeam":"Pattijoen Urheilijat","visitorteam":"Vimpelin Veto","id":"umUBIi","time_begin":"2017-05-21T15:00:00+03:00","phase":"Runkosarja","result":"0 - 1 (4-7, 2-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=o3D2hN","hometeam":"Vimpelin Veto","visitorteam":"Imatran Pallo-Veikot","id":"o3D2hN","time_begin":"2017-05-26T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (5-1, 11-6)"}
+{"url":"http://pesislive.fi/#gamePage?id=m086RN","hometeam":"Kouvolan Pallonlyöjät","visitorteam":"Vimpelin Veto","id":"m086RN","time_begin":"2017-05-28T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (6-1, 4-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=GRBmHW","hometeam":"Vimpelin Veto","visitorteam":"Koskenkorvan Urheilijat","id":"GRBmHW","time_begin":"2017-05-30T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (2-0, 7-6)"}
+{"url":"http://pesislive.fi/#gamePage?id=9MIEZk","hometeam":"Vimpelin Veto","visitorteam":"Sotkamon Jymy","id":"9MIEZk","time_begin":"2017-06-02T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (4-3, 3-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=x8sgWz","hometeam":"Kempeleen Kiri","visitorteam":"Vimpelin Veto","id":"x8sgWz","time_begin":"2017-06-04T17:00:00+03:00","phase":"Runkosarja","result":"0 - 1 (7-7, 2-4)"}
+{"url":"http://pesislive.fi/#gamePage?id=MdBJbZ","hometeam":"Kiteen Pallo -90","visitorteam":"Vimpelin Veto","id":"MdBJbZ","time_begin":"2017-06-06T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (0-3, 2-8)"}
+{"url":"http://pesislive.fi/#gamePage?id=kf8tHx","hometeam":"Alajärven Ankkurit","visitorteam":"Vimpelin Veto","id":"kf8tHx","time_begin":"2017-06-09T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (0-5, 0-9)"}
+{"url":"http://pesislive.fi/#gamePage?id=0ef9eG","hometeam":"Vimpelin Veto","visitorteam":"Joensuun Maila","id":"0ef9eG","time_begin":"2017-06-11T16:00:00+03:00","phase":"Runkosarja","result":"1 - 2s (5-0, 1-2, 0-1)"}
+{"url":"http://pesislive.fi/#gamePage?id=w5l2en","hometeam":"Oulun Lippo Pesis","visitorteam":"Vimpelin Veto","id":"w5l2en","time_begin":"2017-06-15T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (1-2, 5-10)"}
+{"url":"http://pesislive.fi/#gamePage?id=KJL88A","hometeam":"Vimpelin Veto","visitorteam":"Kempeleen Kiri","id":"KJL88A","time_begin":"2017-06-17T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (7-4, 14-3)"}
+{"url":"http://pesislive.fi/#gamePage?id=sOuuC1","hometeam":"Sotkamon Jymy","visitorteam":"Vimpelin Veto","id":"sOuuC1","time_begin":"2017-06-20T18:00:00+03:00","phase":"Runkosarja","result":"2 - 1s (0-3, 5-3, 1-0)"}
+{"url":"http://pesislive.fi/#gamePage?id=VETfiI","hometeam":"Joensuun Maila","visitorteam":"Vimpelin Veto","id":"VETfiI","time_begin":"2017-06-28T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (4-2, 3-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=wr6sOz","hometeam":"Imatran Pallo-Veikot","visitorteam":"Vimpelin Veto","id":"wr6sOz","time_begin":"2017-06-29T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (1-4, 5-9)"}
+{"url":"http://pesislive.fi/#gamePage?id=nAKnkN","hometeam":"Vimpelin Veto","visitorteam":"Kouvolan Pallonlyöjät","id":"nAKnkN","time_begin":"2017-07-06T18:00:00+03:00","phase":"Runkosarja","result":"1 - 0 (5-5, 6-4)"}
+{"url":"http://pesislive.fi/#gamePage?id=qNxj03","hometeam":"Vimpelin Veto","visitorteam":"Alajärven Ankkurit","id":"qNxj03","time_begin":"2017-07-09T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (3-2, 3-1)"}
+{"url":"http://pesislive.fi/#gamePage?id=PbSP21","hometeam":"Hyvinkään Tahko","visitorteam":"Vimpelin Veto","id":"PbSP21","time_begin":"2017-07-11T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (0-3, 2-8)"}
+{"url":"http://pesislive.fi/#gamePage?id=uqXX94","hometeam":"Vimpelin Veto","visitorteam":"Pattijoen Urheilijat","id":"uqXX94","time_begin":"2017-07-14T18:00:00+03:00","phase":"Runkosarja","result":"1 - 0 (2-0, 4-4)"}
+{"url":"http://pesislive.fi/#gamePage?id=rPTxL0","hometeam":"Vimpelin Veto","visitorteam":"Kiteen Pallo -90","id":"rPTxL0","time_begin":"2017-07-16T15:00:00+03:00","phase":"Runkosarja","result":"2 - 1s (6-2, 4-5, 2-0)"}
+{"url":"http://pesislive.fi/#gamePage?id=xNVE8h","hometeam":"Vimpelin Veto","visitorteam":"Kankaanpään Maila","id":"xNVE8h","time_begin":"2017-07-18T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (8-3, 3-1)"}
+{"url":"http://pesislive.fi/#gamePage?id=zH4uZX","hometeam":"Koskenkorvan Urheilijat","visitorteam":"Vimpelin Veto","id":"zH4uZX","time_begin":"2017-07-21T18:00:00+03:00","phase":"Runkosarja","result":"0 - 1 (3-7, 3-3)"}
+{"url":"http://pesislive.fi/#gamePage?id=bEj13B","hometeam":"Vimpelin Veto","visitorteam":"Oulun Lippo Pesis","id":"bEj13B","time_begin":"2017-07-25T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (14-0, 8-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=vjfgNu","hometeam":"JymyJussit","visitorteam":"Vimpelin Veto","id":"vjfgNu","time_begin":"2017-07-27T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (4-5, 2-8)"}
+{"url":"http://pesislive.fi/#gamePage?id=KkD7wU","hometeam":"Vimpelin Veto","visitorteam":"JymyJussit","id":"KkD7wU","time_begin":"2017-07-30T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (8-3, 12-7)"}
+{"url":"http://pesislive.fi/#gamePage?id=6Cgt85","hometeam":"Koskenkorvan Urheilijat","visitorteam":"Vimpelin Veto","id":"6Cgt85","time_begin":"2017-08-01T18:00:00+03:00","phase":"Runkosarja","result":"0 - 2 (1-2, 0-17)"}
+{"url":"http://pesislive.fi/#gamePage?id=9xLS0r","hometeam":"Vimpelin Veto","visitorteam":"Kiteen Pallo -90","id":"9xLS0r","time_begin":"2017-08-05T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (4-1, 10-0)"}
+{"url":"http://pesislive.fi/#gamePage?id=uX4Ny3","hometeam":"Joensuun Maila","visitorteam":"Vimpelin Veto","id":"uX4Ny3","time_begin":"2017-08-08T18:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (2-0, 3-2)"}
+{"url":"http://pesislive.fi/#gamePage?id=RfSRjp","hometeam":"Vimpelin Veto","visitorteam":"Kouvolan Pallonlyöjät","id":"RfSRjp","time_begin":"2017-08-13T16:00:00+03:00","phase":"Runkosarja","result":"2 - 0 (4-0, 3-0)"}
+{"url":"http://pesislive.fi/#gamePage?id=dPhjlF","hometeam":"Sotkamon Jymy","visitorteam":"Vimpelin Veto","id":"dPhjlF","time_begin":"2017-08-17T17:30:00+03:00","phase":"Runkosarja","result":"2 - 0 (4-1, 7-2)"}
