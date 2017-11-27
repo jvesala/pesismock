@@ -1,0 +1,128 @@
+[
+  {
+    "firstName": "Aleksi",
+    "lastName": "Rantala",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Arttu",
+    "lastName": "Ruuska",
+    "type": "player",
+    "image": "ArttuRuuska"
+  },
+  {
+    "firstName": "Elmeri",
+    "lastName": "Anttila",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Henri",
+    "lastName": "Puputti",
+    "type": "player",
+    "image": "HenriPuputti"
+  },
+  {
+    "firstName": "Janne",
+    "lastName": "Heimonen",
+    "type": "player",
+    "image": "JanneHeimonen"
+  },
+  {
+    "firstName": "Janne",
+    "lastName": "Mäkelä",
+    "type": "player",
+    "image": "JanneMakela"
+  },
+  {
+    "firstName": "Jere",
+    "lastName": "Saukko",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Joonas",
+    "lastName": "Suominen",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Matias",
+    "lastName": "Rinta-aho",
+    "type": "player",
+    "image": "MatiasRintaaho"
+  },
+  {
+    "firstName": "Mikko",
+    "lastName": "Haukkala",
+    "type": "player",
+    "image": "MikkoHaukkala"
+  },
+  {
+    "firstName": "Mikko",
+    "lastName": "Kanala",
+    "type": "player",
+    "image": "MikkoKanala"
+  },
+  {
+    "firstName": "Olli",
+    "lastName": "Heikkala",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Pasi",
+    "lastName": "Tyynelä",
+    "type": "2PJ",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Perttu",
+    "lastName": "Ruuska",
+    "type": "player",
+    "image": "PerttuRuuska"
+  },
+  {
+    "firstName": "Sami",
+    "lastName": "Haapakoski",
+    "type": "player",
+    "image": "SamiHaapakoski"
+  },
+  {
+    "firstName": "Sami-Petteri",
+    "lastName": "Kivimäki",
+    "type": "1PJ",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Severi",
+    "lastName": "Lassila",
+    "type": "player",
+    "image": "SeveriLassila"
+  },
+  {
+    "firstName": "Taneli",
+    "lastName": "Lassila",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Teemu",
+    "lastName": "Isoketo",
+    "type": "player",
+    "image": "TeemuIsoketo"
+  },
+  {
+    "firstName": "Timo",
+    "lastName": "Hanhisalo",
+    "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Ville",
+    "lastName": "Takala",
+    "type": "player",
+    "image": "Veto"
+  }
+]

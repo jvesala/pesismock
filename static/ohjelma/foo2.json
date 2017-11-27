@@ -1,0 +1,41 @@
+[
+  "2J 1L"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Antti Hartikainen", event: "1 - 0", inning: "2J 1L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Markus Tuikka", runner: "Toni Kohonen", event: "haava", inning: "2J 1L", team: "Sojy")],
+  "1J 3A"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Niilo Piiponniemi", event: "palo", inning: "1J 3A", team: "Sojy"), PesisApp.ScoreEvent(batter: "Jani Komulainen", runner: "Toni Kohonen", event: "2 - 1", inning: "1J 3A", team: "Sojy"), PesisApp.ScoreEvent(batter: "Jere Vikström", runner: "Markus Tuikka", event: "palo", inning: "1J 3A", team: "Sojy")],
+  "1J 4L"
+  :
+  [PesisApp.ScoreEvent(batter: "Henri Puputti", runner: "Teemu Isoketo", event: "2 - 2", inning: "1J 4L", team: "Veto"), PesisApp.ScoreEvent(batter: "Henri Puputti", runner: "Olli Heikkala", event: "2 - 3", inning: "1J 4L", team: "Veto")],
+  "2J 3A"
+  :
+  [PesisApp.ScoreEvent(batter: "Mikko Kanala", runner: "Teemu Isoketo", event: "2 - 2", inning: "2J 3A", team: "Veto")],
+  "1J 1L"
+  :
+  [PesisApp.ScoreEvent(batter: "Perttu Ruuska", runner: "Olli Heikkala", event: "palo", inning: "1J 1L", team: "Veto"), PesisApp.ScoreEvent(batter: "Janne Mäkelä", runner: "Mikko Kanala", event: "1 - 1", inning: "1J 1L", team: "Veto"), PesisApp.ScoreEvent(batter: "Arttu Ruuska", runner: "Henri Puputti", event: "palo", inning: "1J 1L", team: "Veto")],
+  "2J 4A"
+  :
+  [PesisApp.ScoreEvent(batter: "Janne Mäkelä", runner: "Mikko Kanala", event: "2 - 3", inning: "2J 4A", team: "Veto"), PesisApp.ScoreEvent(batter: "Janne Mäkelä", runner: "Mikko Haukkala", event: "palo", inning: "2J 4A", team: "Veto")],
+  "1J 1A"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Niilo Piiponniemi", event: "palo", inning: "1J 1A", team: "Sojy"), PesisApp.ScoreEvent(batter: "Toni Kohonen", runner: "Niko Korhonen", event: "palo", inning: "1J 1A", team: "Sojy"), PesisApp.ScoreEvent(batter: "Jani Komulainen", runner: "Antti Hartikainen", event: "1 - 0", inning: "1J 1A", team: "Sojy")],
+  "1J 2L"
+  :
+  [PesisApp.ScoreEvent(batter: "Henri Puputti", runner: "Jere Saukko", event: "palo", inning: "1J 2L", team: "Veto"), PesisApp.ScoreEvent(batter: "Perttu Ruuska", runner: "Olli Heikkala", event: "haava", inning: "1J 2L", team: "Veto"), PesisApp.ScoreEvent(batter: "Janne Mäkelä", runner: "Mikko Kanala", event: "palo", inning: "1J 2L", team: "Veto")],
+  "2J 2A"
+  :
+  [PesisApp.ScoreEvent(batter: "Mikko Kanala", runner: "Teemu Isoketo", event: "1 - 1", inning: "2J 2A", team: "Veto"), PesisApp.ScoreEvent(batter: "Henri Puputti", runner: "Olli Heikkala", event: "haava", inning: "2J 2A", team: "Veto"), PesisApp.ScoreEvent(batter: "Janne Mäkelä", runner: "Mikko Kanala", event: "palo", inning: "2J 2A", team: "Veto"), PesisApp.ScoreEvent(batter: "Perttu Ruuska", runner: "Jere Saukko", event: "palo", inning: "2J 2A", team: "Veto")],
+  "2J 2L"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Jere Vikström", event: "2 - 1", inning: "2J 2L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Toni Kohonen", runner: "Niko Korhonen", event: "haava", inning: "2J 2L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Jani Komulainen", runner: "Antti Hartikainen", event: "palo", inning: "2J 2L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Niilo Piiponniemi", runner: "Topi Korhonen", event: "palo", inning: "2J 2L", team: "Sojy")],
+  "1J 2A"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Niilo Piiponniemi", event: "haava", inning: "1J 2A", team: "Sojy")],
+  "2J 4L"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Jere Vikström", event: "haava", inning: "2J 4L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Markus Tuikka", runner: "Roope Korhonen", event: "palo", inning: "2J 4L", team: "Sojy")],
+  "2J 3L"
+  :
+  [PesisApp.ScoreEvent(batter: "Roope Korhonen", runner: "Jere Vikström", event: "palo", inning: "2J 3L", team: "Sojy"), PesisApp.ScoreEvent(batter: "Jani Komulainen", runner: "Niko Korhonen", event: "palo", inning: "2J 3L", team: "Sojy")]
+]

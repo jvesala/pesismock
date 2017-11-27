@@ -1,0 +1,1048 @@
+{
+  "pesistv": false,
+  "voting": {
+    "enabled": false
+  },
+  "current_inning": null,
+  "media": [],
+  "start_time": null,
+  "score_list": [
+    {
+      "event": "palo",
+      "runner": "Timo Kallio",
+      "team": "JoMa",
+      "inning": "1J 1A",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "0 - 1",
+      "runner": "Konsta Piironen",
+      "team": "JoMa",
+      "inning": "1J 1A",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "0 - 2",
+      "runner": "Konsta Kettunen",
+      "team": "JoMa",
+      "inning": "1J 1A",
+      "batter": "Mika V\u00e4is\u00e4nen"
+    },
+    {
+      "event": "palo",
+      "runner": "Lauri Kivinen",
+      "team": "JoMa",
+      "inning": "1J 1A",
+      "batter": "Konsta Kettunen"
+    },
+    {
+      "event": "palo",
+      "runner": "Jussi Korhonen",
+      "team": "Sojy",
+      "inning": "1J 1L",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "haava",
+      "runner": "Lauri Kivinen",
+      "team": "JoMa",
+      "inning": "1J 2A",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "palo",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "1J 2L",
+      "batter": "Toni Kohonen"
+    },
+    {
+      "event": "1 - 2",
+      "runner": "Antti Hartikainen",
+      "team": "Sojy",
+      "inning": "1J 2L",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "2 - 2",
+      "runner": "Topi Korhonen",
+      "team": "Sojy",
+      "inning": "1J 2L",
+      "batter": "Jussi Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Kosti Rautiainen",
+      "team": "Sojy",
+      "inning": "1J 2L",
+      "batter": "Niilo Piiponniemi"
+    },
+    {
+      "event": "palo",
+      "runner": "Tuomas Jussila",
+      "team": "JoMa",
+      "inning": "1J 3A",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "palo",
+      "runner": "Jonne Kemppainen",
+      "team": "JoMa",
+      "inning": "1J 3A",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "2 - 3",
+      "runner": "Henri Litmanen",
+      "team": "JoMa",
+      "inning": "1J 3A",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "3 - 3",
+      "runner": "Saku Hakkarainen",
+      "team": "Sojy",
+      "inning": "1J 3L",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "4 - 3",
+      "runner": "Niko Korhonen",
+      "team": "Sojy",
+      "inning": "1J 3L",
+      "batter": "Toni Kohonen"
+    },
+    {
+      "event": "4 - 4",
+      "runner": "Timo Kallio",
+      "team": "JoMa",
+      "inning": "1J 4A",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "4 - 5",
+      "runner": "Lauri Kivinen",
+      "team": "JoMa",
+      "inning": "1J 4A",
+      "batter": "Henri Litmanen"
+    },
+    {
+      "event": "palo",
+      "runner": "Niko Korhonen",
+      "team": "Sojy",
+      "inning": "1J 4L",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Konsta Piironen",
+      "team": "JoMa",
+      "inning": "2J 1L",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "1 - 0",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "2J 2A",
+      "batter": "Niilo Piiponniemi"
+    },
+    {
+      "event": "2 - 0",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "2J 2A",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Niko Korhonen",
+      "team": "Sojy",
+      "inning": "2J 2A",
+      "batter": "Markus Tuikka"
+    },
+    {
+      "event": "palo",
+      "runner": "Topi Korhonen",
+      "team": "Sojy",
+      "inning": "2J 2A",
+      "batter": "Immo Rautiainen"
+    },
+    {
+      "event": "palo",
+      "runner": "Jere Vikstr\u00f6m",
+      "team": "Sojy",
+      "inning": "2J 3A",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "2J 3A",
+      "batter": "Toni Kohonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Mikko Kemppainen",
+      "team": "JoMa",
+      "inning": "2J 3L",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "2 - 1",
+      "runner": "Timo Kallio",
+      "team": "JoMa",
+      "inning": "2J 3L",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "palo",
+      "runner": "Saku Hakkarainen",
+      "team": "Sojy",
+      "inning": "2J 4A",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "2J 4A",
+      "batter": "Antti Hartikainen"
+    },
+    {
+      "event": "palo",
+      "runner": "Topi Korhonen",
+      "team": "Sojy",
+      "inning": "S L",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Mikko Kemppainen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "0 - 1",
+      "runner": "Konsta Piironen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "palo",
+      "runner": "Timo Kallio",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Jonne Kemppainen"
+    },
+    {
+      "event": "0 - 2",
+      "runner": "Konsta Kettunen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Henri Litmanen"
+    },
+    {
+      "event": "palo",
+      "runner": "Lauri Kivinen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Tuomas Jussila"
+    },
+    {
+      "event": "palo",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Saku Hakkarainen",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Antti Hartikainen"
+    },
+    {
+      "event": "1 - 2",
+      "runner": "Topi Korhonen",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Markus Tuikka"
+    },
+    {
+      "event": "palo",
+      "runner": "Niko Korhonen",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Kosti Rautiainen"
+    },
+    {
+      "event": "2 - 2",
+      "runner": "Jere Vikstr\u00f6m",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Toni Kohonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Mikko Kemppainen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Aleksi Rautiainen"
+    },
+    {
+      "event": "2 - 4",
+      "runner": "Timo Kallio",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Juha Niemi"
+    },
+    {
+      "event": "palo",
+      "runner": "Lauri Kivinen",
+      "team": "JoMa",
+      "inning": "Kotiutus",
+      "batter": "Tuomas Jussila"
+    },
+    {
+      "event": "palo",
+      "runner": "Niilo Piiponniemi",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Roope Korhonen"
+    },
+    {
+      "event": "palo",
+      "runner": "Saku Hakkarainen",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Markus Tuikka"
+    },
+    {
+      "event": "3 - 4",
+      "runner": "Jere Vikstr\u00f6m",
+      "team": "Sojy",
+      "inning": "Kotiutus",
+      "batter": "Toni Kohonen"
+    }
+  ],
+  "log": {
+    "turns_left": 3,
+    "round": 1,
+    "log": [
+      {
+        "batter": [
+          {
+            "number": "1",
+            "name": "Jere Vikstr\u00f6m"
+          },
+          {
+            "number": "2",
+            "name": "Niilo Piiponniemi"
+          },
+          "",
+          ""
+        ],
+        "runner": {
+          "number": "1",
+          "name": "Jere Vikstr\u00f6m"
+        },
+        "tobase": [
+          "karkivaihto",
+          "karkipalo",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "2",
+            "name": "Niilo Piiponniemi"
+          },
+          null,
+          null,
+          null
+        ],
+        "runner": {
+          "number": "2",
+          "name": "Niilo Piiponniemi"
+        },
+        "tobase": [
+          "karkihaava",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "12",
+            "name": "Saku Hakkarainen"
+          },
+          {
+            "number": "3",
+            "name": "Niko Korhonen"
+          },
+          null,
+          null
+        ],
+        "runner": {
+          "number": "J12",
+          "name": "Saku Hakkarainen"
+        },
+        "tobase": [
+          "karkivaihto",
+          "karkipalo",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "3",
+            "name": "Niko Korhonen"
+          },
+          null,
+          null,
+          null
+        ],
+        "runner": {
+          "number": "3",
+          "name": "Niko Korhonen"
+        },
+        "tobase": [
+          "takahaava",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "5",
+            "name": "Markus Tuikka"
+          },
+          null,
+          null,
+          null
+        ],
+        "runner": {
+          "number": "5",
+          "name": "Markus Tuikka"
+        },
+        "tobase": [
+          "karkihaava",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "6",
+            "name": "Topi Korhonen"
+          },
+          {
+            "number": "11",
+            "name": "Antti Hartikainen"
+          },
+          {
+            "number": "10",
+            "name": "Roope Korhonen"
+          },
+          {
+            "number": "10",
+            "name": "Roope Korhonen"
+          }
+        ],
+        "runner": {
+          "number": "6",
+          "name": "Topi Korhonen"
+        },
+        "tobase": [
+          "karkivaihto",
+          "karkivaihto",
+          "karkivaihto",
+          "karkipalo"
+        ]
+      },
+      {
+        "batter": [
+          {
+            "number": "11",
+            "name": "Antti Hartikainen"
+          },
+          null,
+          null,
+          null
+        ],
+        "runner": {
+          "number": "J11",
+          "name": "Antti Hartikainen"
+        },
+        "tobase": [
+          "takavaihto",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "batter": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "runner": {
+          "number": "J10",
+          "name": "Roope Korhonen"
+        },
+        "tobase": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ],
+    "inning": "Super L",
+    "last_batter_pos": 9
+  },
+  "weather": [
+    {
+      "symbol": "31",
+      "time": "18:00",
+      "temperature": "12"
+    },
+    {
+      "symbol": "3",
+      "time": "19:00",
+      "temperature": "12"
+    },
+    {
+      "symbol": "3",
+      "time": "20:00",
+      "temperature": "12"
+    },
+    {
+      "symbol": "31",
+      "time": "21:00",
+      "temperature": "12"
+    },
+    {
+      "symbol": "31",
+      "time": "22:00",
+      "temperature": "12"
+    }
+  ],
+  "spectators": 2034,
+  "status": "ended",
+  "visitor_logo": "static/logot/joma_80.png",
+  "visitor_full_name": "Joensuun Maila",
+  "home_id": "Sotkamo",
+  "batting_team": "home",
+  "home": "SoJy",
+  "end_time": "2017-07-25 18:09:40.330000",
+  "series_name": "Miesten Superpesis",
+  "division": "msuper",
+  "id": "ZQFTsu",
+  "home_logo": "https://pesislive.fi/static/logot/sojy_80.png",
+  "teams": "SoJy - JoMa",
+  "home_full_name": "Sotkamon Jymy",
+  "location": {
+    "city": "Sotkamo",
+    "lat": 64.1290054321289,
+    "stadium": "Hiukan pes\u00e4pallostadion",
+    "lon": 28.380708694458008,
+    "address": "Urheilukatu, 88600 SOTKAMO"
+  },
+  "outs": "Ottelu on p\u00e4\u00e4ttynyt!",
+  "phase_name": "Runkosarja",
+  "stats": {
+    "home": [
+      {
+        "kl2": "",
+        "kl1": "2/8",
+        "name": "Jere Vikstr\u00f6m",
+        "kl": "3/9",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "1V",
+        "kl3": "1/1",
+        "p": "",
+        "kl_percent": "33%",
+        "number": 1
+      },
+      {
+        "kl2": "3/4",
+        "kl1": "4/6",
+        "name": "Niilo Piiponniemi",
+        "kl": "9/13",
+        "tu": "2",
+        "ly": "1+0",
+        "klk": "1/2",
+        "up": "2K",
+        "kl3": "1/1",
+        "p": "II",
+        "kl_percent": "69%",
+        "number": 2
+      },
+      {
+        "kl2": "3/5",
+        "kl1": "",
+        "name": "Niko Korhonen",
+        "kl": "4/6",
+        "tu": "1",
+        "ly": "",
+        "klk": "",
+        "up": "2P",
+        "kl3": "1/1",
+        "p": "I",
+        "kl_percent": "67%",
+        "number": 3
+      },
+      {
+        "kl2": "",
+        "kl1": "",
+        "name": "Toni Kohonen",
+        "kl": "3/7",
+        "tu": "",
+        "ly": "1",
+        "klk": "1/3",
+        "up": "L",
+        "kl3": "2/4",
+        "p": "",
+        "kl_percent": "43%",
+        "number": 4
+      },
+      {
+        "kl2": "1/1",
+        "kl1": "1/3",
+        "name": "Markus Tuikka",
+        "kl": "2/8",
+        "tu": "",
+        "ly": "",
+        "klk": "0/1",
+        "up": "S",
+        "kl3": "0/3",
+        "p": "",
+        "kl_percent": "25%",
+        "number": 5
+      },
+      {
+        "kl2": "",
+        "kl1": "2/5",
+        "name": "Topi Korhonen",
+        "kl": "2/7",
+        "tu": "1",
+        "ly": "",
+        "klk": "",
+        "up": "3V",
+        "kl3": "0/2",
+        "p": "",
+        "kl_percent": "29%",
+        "number": 6
+      },
+      {
+        "kl2": "1/1",
+        "kl1": "1/3",
+        "name": "Kosti Rautiainen",
+        "kl": "3/5",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "2V",
+        "kl3": "1/1",
+        "p": "",
+        "kl_percent": "60%",
+        "number": 7
+      },
+      {
+        "kl2": "1/1",
+        "kl1": "0/3",
+        "name": "Immo Rautiainen",
+        "kl": "1/6",
+        "tu": "",
+        "ly": "",
+        "klk": "0/1",
+        "up": "3P",
+        "kl3": "0/1",
+        "p": "",
+        "kl_percent": "17%",
+        "number": 8
+      },
+      {
+        "kl2": "",
+        "kl1": "",
+        "name": "Jussi Korhonen",
+        "kl": "1/2",
+        "tu": "",
+        "ly": "1",
+        "klk": "1/1",
+        "up": "3K",
+        "kl3": "0/1",
+        "p": "",
+        "kl_percent": "50%",
+        "number": 9
+      },
+      {
+        "kl2": "2/3",
+        "kl1": "1/1",
+        "name": "Roope Korhonen",
+        "kl": "9/15",
+        "tu": "",
+        "ly": "3",
+        "klk": "3/8",
+        "up": "",
+        "kl3": "3/3",
+        "p": "",
+        "kl_percent": "60%",
+        "number": 10
+      },
+      {
+        "kl2": "3/4",
+        "kl1": "0/1",
+        "name": "Antti Hartikainen",
+        "kl": "4/8",
+        "tu": "1",
+        "ly": "",
+        "klk": "0/1",
+        "up": "",
+        "kl3": "1/2",
+        "p": "",
+        "kl_percent": "50%",
+        "number": 11
+      },
+      {
+        "kl2": "",
+        "kl1": "4/5",
+        "name": "Saku Hakkarainen",
+        "kl": "4/5",
+        "tu": "1",
+        "ly": "",
+        "klk": "",
+        "up": "",
+        "kl3": "",
+        "p": "",
+        "kl_percent": "80%",
+        "number": 12
+      },
+      {
+        "kl2": "14/19",
+        "kl1": "15/35",
+        "name": "",
+        "kl": "45/91",
+        "tu": "6",
+        "ly": "1+5",
+        "klk": "6/17",
+        "up": "",
+        "kl3": "10/20",
+        "p": "",
+        "kl_percent": "49%",
+        "number": ""
+      }
+    ],
+    "home_info": {
+      "situation3": 18,
+      "walks": 0,
+      "wthrows": 0,
+      "manager": "Mikko Kuosmanen Mikko Korhonen"
+    },
+    "visitor": [
+      {
+        "kl2": "",
+        "kl1": "4/10",
+        "name": "Mikko Kemppainen",
+        "kl": "4/11",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "S",
+        "kl3": "0/1",
+        "p": "",
+        "kl_percent": "36%",
+        "number": 1
+      },
+      {
+        "kl2": "1/5",
+        "kl1": "6/6",
+        "name": "Timo Kallio",
+        "kl": "7/11",
+        "tu": "2",
+        "ly": "",
+        "klk": "",
+        "up": "3V",
+        "kl3": "",
+        "p": "",
+        "kl_percent": "64%",
+        "number": 2
+      },
+      {
+        "kl2": "3/7",
+        "kl1": "1/2",
+        "name": "Lauri Kivinen",
+        "kl": "4/10",
+        "tu": "1",
+        "ly": "",
+        "klk": "",
+        "up": "2K",
+        "kl3": "0/1",
+        "p": "",
+        "kl_percent": "40%",
+        "number": 3
+      },
+      {
+        "kl2": "2/5",
+        "kl1": "1/3",
+        "name": "Tuomas Jussila",
+        "kl": "8/13",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "2P",
+        "kl3": "5/5",
+        "p": "",
+        "kl_percent": "62%",
+        "number": 4
+      },
+      {
+        "kl2": "2/2",
+        "kl1": "2/4",
+        "name": "Jonne Kemppainen",
+        "kl": "5/7",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "3K",
+        "kl3": "1/1",
+        "p": "",
+        "kl_percent": "71%",
+        "number": 5
+      },
+      {
+        "kl2": "1/1",
+        "kl1": "",
+        "name": "Henri Litmanen",
+        "kl": "3/3",
+        "tu": "1",
+        "ly": "1",
+        "klk": "1/1",
+        "up": "3P",
+        "kl3": "1/1",
+        "p": "",
+        "kl_percent": "100%",
+        "number": 6
+      },
+      {
+        "kl2": "",
+        "kl1": "1/4",
+        "name": "Konsta Kettunen",
+        "kl": "1/5",
+        "tu": "1",
+        "ly": "",
+        "klk": "0/1",
+        "up": "2V",
+        "kl3": "",
+        "p": "",
+        "kl_percent": "20%",
+        "number": 7
+      },
+      {
+        "kl2": "1/1",
+        "kl1": "5/6",
+        "name": "Iiro Kuosa",
+        "kl": "6/8",
+        "tu": "",
+        "ly": "",
+        "klk": "",
+        "up": "1V",
+        "kl3": "0/1",
+        "p": "",
+        "kl_percent": "75%",
+        "number": 8
+      },
+      {
+        "kl2": "3/7",
+        "kl1": "",
+        "name": "Mika V\u00e4is\u00e4nen",
+        "kl": "5/10",
+        "tu": "",
+        "ly": "1",
+        "klk": "1/1",
+        "up": "L",
+        "kl3": "1/2",
+        "p": "",
+        "kl_percent": "50%",
+        "number": 9
+      },
+      {
+        "kl2": "0/1",
+        "kl1": "",
+        "name": "Juha Niemi",
+        "kl": "3/10",
+        "tu": "",
+        "ly": "1",
+        "klk": "1/6",
+        "up": "",
+        "kl3": "2/3",
+        "p": "I",
+        "kl_percent": "30%",
+        "number": 10
+      },
+      {
+        "kl2": "0/1",
+        "kl1": "1/1",
+        "name": "Aleksi Rautiainen",
+        "kl": "4/8",
+        "tu": "",
+        "ly": "3",
+        "klk": "3/4",
+        "up": "",
+        "kl3": "0/2",
+        "p": "II",
+        "kl_percent": "50%",
+        "number": 11
+      },
+      {
+        "kl2": "",
+        "kl1": "2/3",
+        "name": "Konsta Piironen",
+        "kl": "2/3",
+        "tu": "1",
+        "ly": "",
+        "klk": "",
+        "up": "",
+        "kl3": "",
+        "p": "",
+        "kl_percent": "67%",
+        "number": 12
+      },
+      {
+        "kl2": "13/30",
+        "kl1": "23/39",
+        "name": "",
+        "kl": "52/99",
+        "tu": "6",
+        "ly": "6",
+        "klk": "6/13",
+        "up": "",
+        "kl3": "10/17",
+        "p": "",
+        "kl_percent": "53%",
+        "number": ""
+      }
+    ],
+    "visitor_info": {
+      "situation3": 14,
+      "walks": 0,
+      "wthrows": 0,
+      "manager": "Petri Pennanen Juhani Lehtim\u00e4ki"
+    },
+    "spectators": 2034
+  },
+  "visitor": "JoMa",
+  "scheduled_start_time": "25.07.2017 klo 18.00",
+  "visitor_id": "Joensuu",
+  "score_grid": {
+    "home": [
+      0,
+      2,
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      3
+    ],
+    "first_batting_team": "visitor",
+    "visitor": [
+      2,
+      0,
+      1,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      4
+    ]
+  },
+  "field": {
+    "1base": {
+      "number": "",
+      "stats": {
+        "kl3": 0,
+        "kl2": 0,
+        "kl1": 0,
+        "kl": 0,
+        "tu": 0,
+        "ly": 0,
+        "klk": 0,
+        "kl_percent": 0,
+        "ku": 0
+      },
+      "name": ""
+    },
+    "3base": {
+      "number": "",
+      "stats": {
+        "kl3": 0,
+        "kl2": 0,
+        "kl1": 0,
+        "kl": 0,
+        "tu": 0,
+        "ly": 0,
+        "klk": 0,
+        "kl_percent": 0,
+        "ku": 0
+      },
+      "name": ""
+    },
+    "hbase": {
+      "number": "",
+      "stats": {
+        "kl3": 0,
+        "kl2": 0,
+        "kl1": 0,
+        "kl": 0,
+        "tu": 0,
+        "ly": 0,
+        "klk": 0,
+        "kl_percent": 0,
+        "ku": 0
+      },
+      "name": ""
+    },
+    "2base": {
+      "number": "",
+      "stats": {
+        "kl3": 0,
+        "kl2": 0,
+        "kl1": 0,
+        "kl": 0,
+        "tu": 0,
+        "ly": 0,
+        "klk": 0,
+        "kl_percent": 0,
+        "ku": 0
+      },
+      "name": ""
+    }
+  },
+  "score": "1 - 2k (4-5, 2-1, 0-0, 3-4)",
+  "preroster": null
+}
