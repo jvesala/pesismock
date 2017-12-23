@@ -1,0 +1,899 @@
+{
+  "meta": {
+    "order": "asc",
+    "seriesphase": "Pudotuspelit",
+    "season": 2017,
+    "team2": null,
+    "series": "msuper",
+    "limit": null,
+    "team": null,
+    "division": null,
+    "date": null,
+    "seasons": [
+      2014,
+      2015,
+      2016,
+      2017
+    ]
+  },
+  "data": [
+    {
+      "series": "msuper",
+      "phase": "Pudotuspelit",
+      "data": [
+        {
+          "spectators": 3215,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "JymyJussit",
+            "full_name": "Sein\u00e4joen JymyJussit",
+            "bl_name": "Sein\u00e4joki",
+            "city": "Sein\u00e4joki"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=3cxzX2",
+          "division": null,
+          "result": "2 - 1s (2-1, 3-7, 2-1)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-20T15:00:00+03:00",
+          "id": "3cxzX2",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        },
+        {
+          "spectators": 2485,
+          "location": {
+            "stadium": "KSS Energia Areena",
+            "lon": 26.71136474609375,
+            "city": "Kouvola",
+            "address": "Sumulaaksonkatu 3, 45100 Kouvola",
+            "lat": 60.87134552001953
+          },
+          "visitor": {
+            "short_name": "KoU",
+            "full_name": "Koskenkorvan Urheilijat",
+            "bl_name": "Koskenkorva",
+            "city": "Koskekorva"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=NsRx6c",
+          "division": null,
+          "result": "2 - 0 (4-2, 12-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-20T16:00:00+03:00",
+          "id": "NsRx6c",
+          "home": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          }
+        },
+        {
+          "spectators": 1746,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "KiPa",
+            "full_name": "Kiteen Pallo -90",
+            "bl_name": "Kitee",
+            "city": "Kitee"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=X2qs02",
+          "division": null,
+          "result": "2 - 0 (2-0, 5-4)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-20T16:00:00+03:00",
+          "id": "X2qs02",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 1548,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "Tahko",
+            "full_name": "Hyvink\u00e4\u00e4n Tahko",
+            "bl_name": "Hyvink\u00e4\u00e4",
+            "city": "Hyvink\u00e4\u00e4"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=qN4Hk9",
+          "division": null,
+          "result": "0 - 1 (2-2, 1-3)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-20T17:00:00+03:00",
+          "id": "qN4Hk9",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 1185,
+          "location": {
+            "stadium": "Ronkaalan pes\u00e4pallostadion",
+            "lon": 25.31037139892578,
+            "city": "Haapaj\u00e4rvi",
+            "address": "Veskantie 4, 85800 HAAPAJ\u00c4RVI",
+            "lat": 63.752315521240234
+          },
+          "visitor": {
+            "short_name": "KaMa",
+            "full_name": "Kankaanp\u00e4\u00e4n Maila",
+            "bl_name": "Kankaanp\u00e4\u00e4",
+            "city": "Kankaanp\u00e4\u00e4"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=Rb4EmZ",
+          "division": null,
+          "result": "1 - 2k (3-2, 3-9, 0-0, 2-3)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-20T17:00:00+03:00",
+          "id": "Rb4EmZ",
+          "home": {
+            "short_name": "KeKi",
+            "full_name": "Kempeleen Kiri",
+            "bl_name": "Kempele",
+            "city": "Kempele"
+          }
+        },
+        {
+          "spectators": 1403,
+          "location": {
+            "stadium": "Pihkalan pes\u00e4pallostadion",
+            "lon": 24.866628646850586,
+            "city": "Hyvink\u00e4\u00e4",
+            "address": "Urheilukatu 19, 05800 HYVINK\u00c4\u00c4",
+            "lat": 60.63862609863281
+          },
+          "visitor": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=g3AiX5",
+          "division": null,
+          "result": "0 - 2 (3-4, 1-7)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-22T17:30:00+03:00",
+          "id": "g3AiX5",
+          "home": {
+            "short_name": "Tahko",
+            "full_name": "Hyvink\u00e4\u00e4n Tahko",
+            "bl_name": "Hyvink\u00e4\u00e4",
+            "city": "Hyvink\u00e4\u00e4"
+          }
+        },
+        {
+          "spectators": 568,
+          "location": {
+            "stadium": "Rantakentt\u00e4",
+            "lon": 30.1412410736084,
+            "city": "Kitee",
+            "address": "Tohmaj\u00e4rventie, 82500 KITEE",
+            "lat": 62.10615158081055
+          },
+          "visitor": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=VBI2sA",
+          "division": null,
+          "result": "1 - 2k (4-3, 2-7, 1-1, 0-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-22T17:30:00+03:00",
+          "id": "VBI2sA",
+          "home": {
+            "short_name": "KiPa",
+            "full_name": "Kiteen Pallo -90",
+            "bl_name": "Kitee",
+            "city": "Kitee"
+          }
+        },
+        {
+          "spectators": 2747,
+          "location": {
+            "stadium": "Ilkka-areena",
+            "lon": 22.853830337524414,
+            "city": "Sein\u00e4joki",
+            "address": "Urheilupuisto, 60100 SEIN\u00c4JOKI",
+            "lat": 62.78178787231445
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=VbHNIY",
+          "division": null,
+          "result": "1 - 2s (3-0, 1-5, 0-1)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-22T17:30:00+03:00",
+          "id": "VbHNIY",
+          "home": {
+            "short_name": "JymyJussit",
+            "full_name": "Sein\u00e4joen JymyJussit",
+            "bl_name": "Sein\u00e4joki",
+            "city": "Sein\u00e4joki"
+          }
+        },
+        {
+          "spectators": 1265,
+          "location": {
+            "stadium": "Koskenkorvan pes\u00e4pallostadion",
+            "lon": 22.44278907775879,
+            "city": "Koskenkorva",
+            "address": "Harjutie 16, 61330 KOSKENKORVA",
+            "lat": 62.69650650024414
+          },
+          "visitor": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=PGMQZS",
+          "division": null,
+          "result": "0 - 1 (2-4, 4-4)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-23T17:30:00+03:00",
+          "id": "PGMQZS",
+          "home": {
+            "short_name": "KoU",
+            "full_name": "Koskenkorvan Urheilijat",
+            "bl_name": "Koskenkorva",
+            "city": "Koskekorva"
+          }
+        },
+        {
+          "spectators": 1137,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "Tahko",
+            "full_name": "Hyvink\u00e4\u00e4n Tahko",
+            "bl_name": "Hyvink\u00e4\u00e4",
+            "city": "Hyvink\u00e4\u00e4"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=NozRV6",
+          "division": null,
+          "result": "2 - 0 (4-0, 1-0)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-23T17:30:00+03:00",
+          "id": "NozRV6",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 1390,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "JymyJussit",
+            "full_name": "Sein\u00e4joen JymyJussit",
+            "bl_name": "Sein\u00e4joki",
+            "city": "Sein\u00e4joki"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=G57zUw",
+          "division": null,
+          "result": "0 - 1 (2-2, 2-5)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-23T17:30:00+03:00",
+          "id": "G57zUw",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        },
+        {
+          "spectators": 1157,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "KiPa",
+            "full_name": "Kiteen Pallo -90",
+            "bl_name": "Kitee",
+            "city": "Kitee"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=Yap64O",
+          "division": null,
+          "result": "1 - 0 (7-2, 4-4)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-23T17:30:00+03:00",
+          "id": "Yap64O",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 1873,
+          "location": {
+            "stadium": "KSS Energia Areena",
+            "lon": 26.71136474609375,
+            "city": "Kouvola",
+            "address": "Sumulaaksonkatu 3, 45100 Kouvola",
+            "lat": 60.87134552001953
+          },
+          "visitor": {
+            "short_name": "KoU",
+            "full_name": "Koskenkorvan Urheilijat",
+            "bl_name": "Koskenkorva",
+            "city": "Koskekorva"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=cvbEa3",
+          "division": null,
+          "result": "2 - 0 (10-2, 3-1)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-24T17:30:00+03:00",
+          "id": "cvbEa3",
+          "home": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          }
+        },
+        {
+          "spectators": 927,
+          "location": {
+            "stadium": "Pihkalan pes\u00e4pallostadion",
+            "lon": 24.866628646850586,
+            "city": "Hyvink\u00e4\u00e4",
+            "address": "Urheilukatu 19, 05800 HYVINK\u00c4\u00c4",
+            "lat": 60.63862609863281
+          },
+          "visitor": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=3ahciY",
+          "division": null,
+          "result": "0 - 1 (1-1, 3-4)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-25T17:30:00+03:00",
+          "id": "3ahciY",
+          "home": {
+            "short_name": "Tahko",
+            "full_name": "Hyvink\u00e4\u00e4n Tahko",
+            "bl_name": "Hyvink\u00e4\u00e4",
+            "city": "Hyvink\u00e4\u00e4"
+          }
+        },
+        {
+          "spectators": 2658,
+          "location": {
+            "stadium": "Ilkka-areena",
+            "lon": 22.853830337524414,
+            "city": "Sein\u00e4joki",
+            "address": "Urheilupuisto, 60100 SEIN\u00c4JOKI",
+            "lat": 62.78178787231445
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=C0Mvbb",
+          "division": null,
+          "result": "1 - 2s (9-1, 1-4, 0-1)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-25T17:30:00+03:00",
+          "id": "C0Mvbb",
+          "home": {
+            "short_name": "JymyJussit",
+            "full_name": "Sein\u00e4joen JymyJussit",
+            "bl_name": "Sein\u00e4joki",
+            "city": "Sein\u00e4joki"
+          }
+        },
+        {
+          "spectators": 1883,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=HlqmEA",
+          "division": null,
+          "result": "2 - 0 (4-2, 3-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-29T17:00:00+03:00",
+          "id": "HlqmEA",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 1951,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=DQriTG",
+          "division": null,
+          "result": "2 - 1s (3-5, 11-5, 1-0)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-30T17:00:00+03:00",
+          "id": "DQriTG",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 1757,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=Bqa4BF",
+          "division": null,
+          "result": "2 - 1s (1-2, 3-2, 1-0)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-08-31T17:00:00+03:00",
+          "id": "Bqa4BF",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        },
+        {
+          "spectators": 2460,
+          "location": {
+            "stadium": "KSS Energia Areena",
+            "lon": 26.71136474609375,
+            "city": "Kouvola",
+            "address": "Sumulaaksonkatu 3, 45100 Kouvola",
+            "lat": 60.87134552001953
+          },
+          "visitor": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=vflhat",
+          "division": null,
+          "result": "1 - 0 (4-4, 4-3)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-01T17:00:00+03:00",
+          "id": "vflhat",
+          "home": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          }
+        },
+        {
+          "spectators": 2368,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=7mJ87Y",
+          "division": null,
+          "result": "0 - 1 (3-5, 2-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-02T16:00:00+03:00",
+          "id": "7mJ87Y",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 3051,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=FhsNRQ",
+          "division": null,
+          "result": "1 - 0 (7-3, 5-5)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-03T16:00:00+03:00",
+          "id": "FhsNRQ",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 2316,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=Okqw48",
+          "division": null,
+          "result": "2 - 0 (6-3, 7-5)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-04T17:00:00+03:00",
+          "id": "Okqw48",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        },
+        {
+          "spectators": 2303,
+          "location": {
+            "stadium": "KSS Energia Areena",
+            "lon": 26.71136474609375,
+            "city": "Kouvola",
+            "address": "Sumulaaksonkatu 3, 45100 Kouvola",
+            "lat": 60.87134552001953
+          },
+          "visitor": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=BQJ8TD",
+          "division": null,
+          "result": "1 - 2k (5-1, 1-5, 1-1, 3-4)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-05T17:00:00+03:00",
+          "id": "BQJ8TD",
+          "home": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          }
+        },
+        {
+          "spectators": 3070,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=mEFzvz",
+          "division": null,
+          "result": "0 - 2 (1-3, 1-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-10T16:00:00+03:00",
+          "id": "mEFzvz",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 673,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=rnvsw1",
+          "division": null,
+          "result": "0 - 2 (1-3, 1-2)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-10T16:00:00+03:00",
+          "id": "rnvsw1",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 2720,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=bpE8fT",
+          "division": null,
+          "result": "0 - 2 (2-3, 3-6)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-16T16:00:00+03:00",
+          "id": "bpE8fT",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        },
+        {
+          "spectators": 1980,
+          "location": {
+            "stadium": "KSS Energia Areena",
+            "lon": 26.71136474609375,
+            "city": "Kouvola",
+            "address": "Sumulaaksonkatu 3, 45100 Kouvola",
+            "lat": 60.87134552001953
+          },
+          "visitor": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=fDIjWo",
+          "division": null,
+          "result": "0 - 2 (1-2, 2-3)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-16T16:00:00+03:00",
+          "id": "fDIjWo",
+          "home": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          }
+        },
+        {
+          "spectators": 3288,
+          "location": {
+            "stadium": "Saarikentt\u00e4",
+            "lon": 23.824235916137695,
+            "city": "Vimpeli",
+            "address": "Saarikentt\u00e4, 62800 VIMPELI",
+            "lat": 63.16133117675781
+          },
+          "visitor": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=zXpLRr",
+          "division": null,
+          "result": "2 - 1k (4-2, 3-4, 0-0, 2-1)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-17T16:00:00+03:00",
+          "id": "zXpLRr",
+          "home": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          }
+        },
+        {
+          "spectators": 1048,
+          "location": {
+            "stadium": "Mehtim\u00e4en pes\u00e4pallostadion",
+            "lon": 29.740673065185547,
+            "city": "Joensuu",
+            "address": "L\u00e4htel\u00e4ntie 4, 80110 JOENSUU",
+            "lat": 62.602691650390625
+          },
+          "visitor": {
+            "short_name": "KPL",
+            "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+            "bl_name": "Kouvola",
+            "city": "Kouvola"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=n4ij1m",
+          "division": null,
+          "result": "2 - 1s (7-6, 1-5, 1-0)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-17T16:00:00+03:00",
+          "id": "n4ij1m",
+          "home": {
+            "short_name": "JoMa",
+            "full_name": "Joensuun Maila",
+            "bl_name": "Joensuu",
+            "city": "Joensuu"
+          }
+        },
+        {
+          "spectators": 3415,
+          "location": {
+            "stadium": "Hiukan pes\u00e4pallostadion",
+            "lon": 28.380708694458008,
+            "city": "Sotkamo",
+            "address": "Urheilukatu, 88600 SOTKAMO",
+            "lat": 64.1290054321289
+          },
+          "visitor": {
+            "short_name": "Veto",
+            "full_name": "Vimpelin Veto",
+            "bl_name": "Vimpeli",
+            "city": "Vimpeli"
+          },
+          "series": "msuper",
+          "url": "https://pesislive.fi/#gamePage?id=ycW8Em",
+          "division": null,
+          "result": "0 - 2 (2-3, 2-3)",
+          "phase": "Pudotuspelit",
+          "time_begin": "2017-09-23T14:00:00+03:00",
+          "id": "ycW8Em",
+          "home": {
+            "short_name": "SoJy",
+            "full_name": "Sotkamon Jymy",
+            "bl_name": "Sotkamo",
+            "city": "Sotkamo"
+          }
+        }
+      ],
+      "name": "Miesten Superpesis  Pudotuspelit",
+      "division": null
+    }
+  ]
+}
