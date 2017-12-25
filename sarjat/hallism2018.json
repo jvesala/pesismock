@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "series": "msuper",
+      "division": "c",
+      "data": [
+        {
+          "division": "c",
+          "url": "https://pesislive.fi/#gamePage?id=aEpsb2",
+          "home": {
+            "full_name": "Joensuun Maila",
+            "city": "Joensuu",
+            "bl_name": "Joensuu",
+            "short_name": "JoMa"
+          },
+          "result": null,
+          "series": "msuper",
+          "location": {
+            "lat": 62.601478576660156,
+            "lon": 29.74221420288086,
+            "city": "Joensuu",
+            "stadium": "Joensuu Areena",
+            "address": "Mehtim\u00e4enaukio 2, 80100 Joensuu"
+          },
+          "phase": "HalliSM",
+          "time_begin": "2018-02-04T00:00:00+02:00",
+          "id": "aEpsb2",
+          "visitor": {
+            "full_name": "Kiteen Pallo -90",
+            "city": "Kitee",
+            "bl_name": "Kitee",
+            "short_name": "KiPa"
+          },
+          "spectators": null
+        }
+      ],
+      "phase": "HalliSM",
+      "name": "Miesten Superpesis Lohko C HalliSM"
+    }
+  ],
+  "meta": {
+    "seriesphase": "HalliSM",
+    "division": null,
+    "date": null,
+    "limit": null,
+    "order": "asc",
+    "team": null,
+    "series": "msuper",
+    "season": 2018,
+    "team2": null,
+    "seasons": [
+      2015,
+      2016,
+      2017,
+      2018
+    ]
+  }
+}
