@@ -1,9 +1,146 @@
 [
   {
     "id": "aEpsb2",
-    "startTime": "2018-02-04T00:00:00+02:00",
+    "startTime": "2018-02-04T17:00:00+02:00",
     "homeTeam": "Joensuun Maila",
     "visitorTeam": "Kiteen Pallo -90",
-    "phase": "HalliSM"
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb8",
+    "startTime": "2018-02-17T15:30:00+02:00",
+    "homeTeam": "Imatran Pallo-Veikot",
+    "visitorTeam": "Joensuun Maila",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb1",
+    "startTime": "2018-02-18T18:30:00+02:00",
+    "homeTeam": "Kiteen Pallo -90",
+    "visitorTeam": "Imatran Pallo-Veikot",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb5",
+    "startTime": "2018-02-16T20:00:00+02:00",
+    "homeTeam": "Kouvolan Pallonlyöjät",
+    "visitorTeam": "Haminan Palloilijat",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb9",
+    "startTime": "2018-02-17T18:30:00+02:00",
+    "homeTeam": "Haminan Palloilijat",
+    "visitorTeam": "Hyvinkään Tahko",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb0",
+    "startTime": "2018-02-18T12:30:00+02:00",
+    "homeTeam": "Hyvinkään Tahko",
+    "visitorTeam": "Kouvolan Pallonlyöjät",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb0",
+    "startTime": "2018-02-17T15:30:00+02:00",
+    "homeTeam": "Kankaanpään Maila",
+    "visitorTeam": "Alajärven Ankkurit",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb2",
+    "startTime": "2018-02-18T12:30:00+02:00",
+    "homeTeam": "Alajärven Ankkurit",
+    "visitorTeam": "Vimpelin Veto",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb5",
+    "startTime": "2018-02-24T15:30:00+02:00",
+    "homeTeam": "Alajärven Ankkurit",
+    "visitorTeam": "Koskenkorvan Urheilijat",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb3",
+    "startTime": "2018-02-25T13:00:00+02:00",
+    "homeTeam": "Koskenkorvan Urheilijat",
+    "visitorTeam": "Vimpelin Veto",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb6",
+    "startTime": "2018-03-04T13:00:00+02:00",
+    "homeTeam": "Vimpelin Veto",
+    "visitorTeam": "Kankaanpään Maila",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb7",
+    "startTime": "2018-03-04T16:00:00+02:00",
+    "homeTeam": "Kankaanpään Maila",
+    "visitorTeam": "Koskenkorvan Urheilijat",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb3",
+    "startTime": "2018-02-10T14:00:00+02:00",
+    "homeTeam": "Seinäjoen JymyJussit",
+    "visitorTeam": "Oulun Lippo Pesis",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb4",
+    "startTime": "2018-02-11T16:00:00+02:00",
+    "homeTeam": "Seinäjoen JymyJussit",
+    "visitorTeam": "Pattijoen Urheilijat",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb6",
+    "startTime": "2018-02-17T13:00:00+02:00",
+    "homeTeam": "Sotkamon Jymy",
+    "visitorTeam": "Seinäjoen JymyJussit",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb7",
+    "startTime": "2018-02-17T15:30:00+02:00",
+    "homeTeam": "Pattijoen Urheilijat",
+    "visitorTeam": "Sotkamon Jymy",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "aEpsb1",
+    "startTime": "2018-02-18T12:00:00+02:00",
+    "homeTeam": "Oulun Lippo Pesis",
+    "visitorTeam": "Sotkamon Jymy",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb4",
+    "startTime": "2018-02-25T12:00:00+02:00",
+    "homeTeam": "Oulun Lippo Pesis",
+    "visitorTeam": "Pattijoen Urheilijat",
+    "phase": "HalliSM",
+    "result": null
   }
 ]

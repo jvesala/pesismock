@@ -1,58 +1,524 @@
-{
-  "data": [
-    {
-      "series": "msuper",
-      "division": "c",
-      "data": [
-        {
-          "division": "c",
-          "url": "https://pesislive.fi/#gamePage?id=aEpsb2",
-          "home": {
-            "full_name": "Joensuun Maila",
-            "city": "Joensuu",
-            "bl_name": "Joensuu",
-            "short_name": "JoMa"
-          },
-          "result": null,
-          "series": "msuper",
-          "location": {
-            "lat": 62.601478576660156,
-            "lon": 29.74221420288086,
-            "city": "Joensuu",
-            "stadium": "Joensuu Areena",
-            "address": "Mehtim\u00e4enaukio 2, 80100 Joensuu"
-          },
-          "phase": "HalliSM",
-          "time_begin": "2018-02-04T00:00:00+02:00",
-          "id": "aEpsb2",
-          "visitor": {
-            "full_name": "Kiteen Pallo -90",
-            "city": "Kitee",
-            "bl_name": "Kitee",
-            "short_name": "KiPa"
-          },
-          "spectators": null
-        }
-      ],
-      "phase": "HalliSM",
-      "name": "Miesten Superpesis Lohko C HalliSM"
-    }
-  ],
-  "meta": {
-    "seriesphase": "HalliSM",
-    "division": null,
-    "date": null,
-    "limit": null,
-    "order": "asc",
-    "team": null,
+[
+  {
+    "visitor": {
+      "short_name": "KiPa",
+      "bl_name": "Kitee",
+      "full_name": "Kiteen Pallo -90",
+      "city": "Kitee"
+    },
+    "time_begin": "2018-02-04T17:00:00+02:00",
+    "location": {
+      "lon": 29.74221420288086,
+      "address": "Mehtim\u00e4enaukio 2, 80100 Joensuu",
+      "stadium": "Joensuu Areena",
+      "city": "Joensuu",
+      "lat": 62.601478576660156
+    },
+    "result": null,
+    "division": "c",
+    "home": {
+      "short_name": "JoMa",
+      "bl_name": "Joensuu",
+      "full_name": "Joensuun Maila",
+      "city": "Joensuu"
+    },
+    "spectators": null,
     "series": "msuper",
-    "season": 2018,
-    "team2": null,
-    "seasons": [
-      2015,
-      2016,
-      2017,
-      2018
-    ]
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb2",
+    "phase": "HalliSM",
+    "id": "aEpsb2"
+  },
+  {
+    "visitor": {
+      "short_name": "JoMa",
+      "bl_name": "Joensuu",
+      "full_name": "Joensuun Maila",
+      "city": "Joensuu"
+    },
+    "time_begin": "2018-02-17T15:30:00+02:00",
+    "location": {
+      "lon": 28.732784271240234,
+      "address": "Ottelukatu 9, 55420 Imatra",
+      "stadium": "Aviasport Areena",
+      "city": "Imatra",
+      "lat": 61.1983528137207
+    },
+    "result": null,
+    "division": "c",
+    "home": {
+      "short_name": "IPV",
+      "bl_name": "Imatra",
+      "full_name": "Imatran Pallo-Veikot",
+      "city": "Imatra"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb8",
+    "phase": "HalliSM",
+    "id": "aEpsb8"
+  },
+  {
+    "visitor": {
+      "short_name": "IPV",
+      "bl_name": "Imatra",
+      "full_name": "Imatran Pallo-Veikot",
+      "city": "Imatra"
+    },
+    "time_begin": "2018-02-18T18:30:00+02:00",
+    "location": {
+      "lon": 28.732784271240234,
+      "address": "Ottelukatu 9, 55420 Imatra",
+      "stadium": "Aviasport Areena",
+      "city": "Imatra",
+      "lat": 61.1983528137207
+    },
+    "result": null,
+    "division": "c",
+    "home": {
+      "short_name": "KiPa",
+      "bl_name": "Kitee",
+      "full_name": "Kiteen Pallo -90",
+      "city": "Kitee"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb1",
+    "phase": "HalliSM",
+    "id": "bEpsb1"
+  },
+  {
+    "visitor": {
+      "short_name": "Hamina",
+      "bl_name": "Hamina",
+      "full_name": "Haminan Palloilijat",
+      "city": "Hamina"
+    },
+    "time_begin": "2018-02-16T20:00:00+02:00",
+    "location": {
+      "lon": 28.732784271240234,
+      "address": "Ottelukatu 9, 55420 Imatra",
+      "stadium": "Aviasport Areena",
+      "city": "Imatra",
+      "lat": 61.1983528137207
+    },
+    "result": null,
+    "division": "d",
+    "home": {
+      "short_name": "KPL",
+      "bl_name": "Kouvola",
+      "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+      "city": "Kouvola"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb5",
+    "phase": "HalliSM",
+    "id": "aEpsb5"
+  },
+  {
+    "visitor": {
+      "short_name": "Tahko",
+      "bl_name": "Hyvink\u00e4\u00e4",
+      "full_name": "Hyvink\u00e4\u00e4n Tahko",
+      "city": "Hyvink\u00e4\u00e4"
+    },
+    "time_begin": "2018-02-17T18:30:00+02:00",
+    "location": {
+      "lon": 28.732784271240234,
+      "address": "Ottelukatu 9, 55420 Imatra",
+      "stadium": "Aviasport Areena",
+      "city": "Imatra",
+      "lat": 61.1983528137207
+    },
+    "result": null,
+    "division": "d",
+    "home": {
+      "short_name": "Hamina",
+      "bl_name": "Hamina",
+      "full_name": "Haminan Palloilijat",
+      "city": "Hamina"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb9",
+    "phase": "HalliSM",
+    "id": "aEpsb9"
+  },
+  {
+    "visitor": {
+      "short_name": "KPL",
+      "bl_name": "Kouvola",
+      "full_name": "Kouvolan Pallonly\u00f6j\u00e4t",
+      "city": "Kouvola"
+    },
+    "time_begin": "2018-02-18T12:30:00+02:00",
+    "location": {
+      "lon": 28.732784271240234,
+      "address": "Ottelukatu 9, 55420 Imatra",
+      "stadium": "Aviasport Areena",
+      "city": "Imatra",
+      "lat": 61.1983528137207
+    },
+    "result": null,
+    "division": "d",
+    "home": {
+      "short_name": "Tahko",
+      "bl_name": "Hyvink\u00e4\u00e4",
+      "full_name": "Hyvink\u00e4\u00e4n Tahko",
+      "city": "Hyvink\u00e4\u00e4"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb0",
+    "phase": "HalliSM",
+    "id": "bEpsb0"
+  },
+  {
+    "visitor": {
+      "short_name": "Ankkurit",
+      "bl_name": "Alaj\u00e4rvi",
+      "full_name": "Alaj\u00e4rven Ankkurit",
+      "city": "Alaj\u00e4rvi"
+    },
+    "time_begin": "2018-02-17T15:30:00+02:00",
+    "location": {
+      "lon": 23.794883728027344,
+      "address": "Tehtaantie 16, 62900 ALAJ\u00c4RVI",
+      "stadium": "Alaj\u00e4rven ylipainehalli",
+      "city": "Alaj\u00e4rvi",
+      "lat": 63.00273895263672
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "KaMa",
+      "bl_name": "Kankaanp\u00e4\u00e4",
+      "full_name": "Kankaanp\u00e4\u00e4n Maila",
+      "city": "Kankaanp\u00e4\u00e4"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb0",
+    "phase": "HalliSM",
+    "id": "aEpsb0"
+  },
+  {
+    "visitor": {
+      "short_name": "Veto",
+      "bl_name": "Vimpeli",
+      "full_name": "Vimpelin Veto",
+      "city": "Vimpeli"
+    },
+    "time_begin": "2018-02-18T12:30:00+02:00",
+    "location": {
+      "lon": 23.794883728027344,
+      "address": "Tehtaantie 16, 62900 ALAJ\u00c4RVI",
+      "stadium": "Alaj\u00e4rven ylipainehalli",
+      "city": "Alaj\u00e4rvi",
+      "lat": 63.00273895263672
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "Ankkurit",
+      "bl_name": "Alaj\u00e4rvi",
+      "full_name": "Alaj\u00e4rven Ankkurit",
+      "city": "Alaj\u00e4rvi"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb2",
+    "phase": "HalliSM",
+    "id": "bEpsb2"
+  },
+  {
+    "visitor": {
+      "short_name": "KoU",
+      "bl_name": "Koskenkorva",
+      "full_name": "Koskenkorvan Urheilijat",
+      "city": "Koskekorva"
+    },
+    "time_begin": "2018-02-24T15:30:00+02:00",
+    "location": {
+      "lon": 23.794883728027344,
+      "address": "Tehtaantie 16, 62900 ALAJ\u00c4RVI",
+      "stadium": "Alaj\u00e4rven ylipainehalli",
+      "city": "Alaj\u00e4rvi",
+      "lat": 63.00273895263672
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "Ankkurit",
+      "bl_name": "Alaj\u00e4rvi",
+      "full_name": "Alaj\u00e4rven Ankkurit",
+      "city": "Alaj\u00e4rvi"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb5",
+    "phase": "HalliSM",
+    "id": "bEpsb5"
+  },
+  {
+    "visitor": {
+      "short_name": "Veto",
+      "bl_name": "Vimpeli",
+      "full_name": "Vimpelin Veto",
+      "city": "Vimpeli"
+    },
+    "time_begin": "2018-02-25T13:00:00+02:00",
+    "location": {
+      "lon": 22.822664260864258,
+      "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+      "stadium": "Sein\u00e4joki Areena",
+      "city": "Sein\u00e4joki",
+      "lat": 62.78451919555664
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "KoU",
+      "bl_name": "Koskenkorva",
+      "full_name": "Koskenkorvan Urheilijat",
+      "city": "Koskekorva"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb3",
+    "phase": "HalliSM",
+    "id": "bEpsb3"
+  },
+  {
+    "visitor": {
+      "short_name": "KaMa",
+      "bl_name": "Kankaanp\u00e4\u00e4",
+      "full_name": "Kankaanp\u00e4\u00e4n Maila",
+      "city": "Kankaanp\u00e4\u00e4"
+    },
+    "time_begin": "2018-03-04T13:00:00+02:00",
+    "location": {
+      "lon": 22.822664260864258,
+      "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+      "stadium": "Sein\u00e4joki Areena",
+      "city": "Sein\u00e4joki",
+      "lat": 62.78451919555664
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "Veto",
+      "bl_name": "Vimpeli",
+      "full_name": "Vimpelin Veto",
+      "city": "Vimpeli"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb6",
+    "phase": "HalliSM",
+    "id": "bEpsb6"
+  },
+  {
+    "visitor": {
+      "short_name": "KoU",
+      "bl_name": "Koskenkorva",
+      "full_name": "Koskenkorvan Urheilijat",
+      "city": "Koskekorva"
+    },
+    "time_begin": "2018-03-04T16:00:00+02:00",
+    "location": {
+      "lon": 22.822664260864258,
+      "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+      "stadium": "Sein\u00e4joki Areena",
+      "city": "Sein\u00e4joki",
+      "lat": 62.78451919555664
+    },
+    "result": null,
+    "division": "b",
+    "home": {
+      "short_name": "KaMa",
+      "bl_name": "Kankaanp\u00e4\u00e4",
+      "full_name": "Kankaanp\u00e4\u00e4n Maila",
+      "city": "Kankaanp\u00e4\u00e4"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb7",
+    "phase": "HalliSM",
+    "id": "bEpsb7"
+  },
+  {
+    "visitor": {
+      "short_name": "Lippo",
+      "bl_name": "Oulu",
+      "full_name": "Oulun Lippo Pesis",
+      "city": "Oulu"
+    },
+    "time_begin": "2018-02-10T14:00:00+02:00",
+    "location": {
+      "lon": 22.822664260864258,
+      "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+      "stadium": "Sein\u00e4joki Areena",
+      "city": "Sein\u00e4joki",
+      "lat": 62.78451919555664
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "JymyJussit",
+      "bl_name": "Sein\u00e4joki",
+      "full_name": "Sein\u00e4joen JymyJussit",
+      "city": "Sein\u00e4joki"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb3",
+    "phase": "HalliSM",
+    "id": "aEpsb3"
+  },
+  {
+    "visitor": {
+      "short_name": "PattU",
+      "bl_name": "Raahe",
+      "full_name": "Pattijoen Urheilijat",
+      "city": "Raahe"
+    },
+    "time_begin": "2018-02-11T16:00:00+02:00",
+    "location": {
+      "lon": 22.822664260864258,
+      "address": "Kirkkokatu 23, 60220 Sein\u00e4joki",
+      "stadium": "Sein\u00e4joki Areena",
+      "city": "Sein\u00e4joki",
+      "lat": 62.78451919555664
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "JymyJussit",
+      "bl_name": "Sein\u00e4joki",
+      "full_name": "Sein\u00e4joen JymyJussit",
+      "city": "Sein\u00e4joki"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb4",
+    "phase": "HalliSM",
+    "id": "aEpsb4"
+  },
+  {
+    "visitor": {
+      "short_name": "JymyJussit",
+      "bl_name": "Sein\u00e4joki",
+      "full_name": "Sein\u00e4joen JymyJussit",
+      "city": "Sein\u00e4joki"
+    },
+    "time_begin": "2018-02-17T13:00:00+02:00",
+    "location": {
+      "lon": 25.501220703125,
+      "address": "Ouluhallintie 20, 90130",
+      "stadium": "Ouluhalli",
+      "city": "Oulu",
+      "lat": 65.00799560546875
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "SoJy",
+      "bl_name": "Sotkamo",
+      "full_name": "Sotkamon Jymy",
+      "city": "Sotkamo"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb6",
+    "phase": "HalliSM",
+    "id": "aEpsb6"
+  },
+  {
+    "visitor": {
+      "short_name": "SoJy",
+      "bl_name": "Sotkamo",
+      "full_name": "Sotkamon Jymy",
+      "city": "Sotkamo"
+    },
+    "time_begin": "2018-02-17T15:30:00+02:00",
+    "location": {
+      "lon": 25.501220703125,
+      "address": "Ouluhallintie 20, 90130",
+      "stadium": "Ouluhalli",
+      "city": "Oulu",
+      "lat": 65.00799560546875
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "PattU",
+      "bl_name": "Raahe",
+      "full_name": "Pattijoen Urheilijat",
+      "city": "Raahe"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb7",
+    "phase": "HalliSM",
+    "id": "aEpsb7"
+  },
+  {
+    "visitor": {
+      "short_name": "SoJy",
+      "bl_name": "Sotkamo",
+      "full_name": "Sotkamon Jymy",
+      "city": "Sotkamo"
+    },
+    "time_begin": "2018-02-18T12:00:00+02:00",
+    "location": {
+      "lon": 25.501220703125,
+      "address": "Ouluhallintie 20, 90130",
+      "stadium": "Ouluhalli",
+      "city": "Oulu",
+      "lat": 65.00799560546875
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "Lippo",
+      "bl_name": "Oulu",
+      "full_name": "Oulun Lippo Pesis",
+      "city": "Oulu"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=aEpsb1",
+    "phase": "HalliSM",
+    "id": "aEpsb1"
+  },
+  {
+    "visitor": {
+      "short_name": "PattU",
+      "bl_name": "Raahe",
+      "full_name": "Pattijoen Urheilijat",
+      "city": "Raahe"
+    },
+    "time_begin": "2018-02-25T12:00:00+02:00",
+    "location": {
+      "lon": 25.501220703125,
+      "address": "Ouluhallintie 20, 90130",
+      "stadium": "Ouluhalli",
+      "city": "Oulu",
+      "lat": 65.00799560546875
+    },
+    "result": null,
+    "division": "a",
+    "home": {
+      "short_name": "Lippo",
+      "bl_name": "Oulu",
+      "full_name": "Oulun Lippo Pesis",
+      "city": "Oulu"
+    },
+    "spectators": null,
+    "series": "msuper",
+    "url": "https://pesislive.fi/#gamePage?id=bEpsb4",
+    "phase": "HalliSM",
+    "id": "bEpsb4"
   }
-}
+]

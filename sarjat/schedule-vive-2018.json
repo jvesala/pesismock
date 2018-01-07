@@ -1,0 +1,26 @@
+[
+  {
+    "id": "bEpsb2",
+    "startTime": "2018-02-18T12:30:00+02:00",
+    "homeTeam": "Alajärven Ankkurit",
+    "visitorTeam": "Vimpelin Veto",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb3",
+    "startTime": "2018-02-25T13:00:00+02:00",
+    "homeTeam": "Koskenkorvan Urheilijat",
+    "visitorTeam": "Vimpelin Veto",
+    "phase": "HalliSM",
+    "result": null
+  },
+  {
+    "id": "bEpsb6",
+    "startTime": "2018-03-04T13:00:00+02:00",
+    "homeTeam": "Vimpelin Veto",
+    "visitorTeam": "Kankaanpään Maila",
+    "phase": "HalliSM",
+    "result": null
+  }
+]
