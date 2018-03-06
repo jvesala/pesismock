@@ -18,10 +18,22 @@
     "image": "Veto"
   },
   {
+    "firstName": "Heikki",
+    "lastName": "Seppä",
+    "type": "other",
+    "image": "Veto"
+  },
+  {
     "firstName": "Henri",
     "lastName": "Puputti",
     "type": "player",
     "image": "HenriPuputti"
+  },
+  {
+    "firstName": "Jani",
+    "lastName": "Kaunisto",
+    "type": "media",
+    "image": "Veto"
   },
   {
     "firstName": "Janne",
@@ -48,10 +60,34 @@
     "image": "Veto"
   },
   {
+    "firstName": "Jussi",
+    "lastName": "Järvinen",
+    "type": "coach",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Kari",
+    "lastName": "Kleemola",
+    "type": "coach",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Marja-Liisa",
+    "lastName": "Kivipelto",
+    "type": "other",
+    "image": "Veto"
+  },
+  {
     "firstName": "Matias",
     "lastName": "Rinta-aho",
     "type": "player",
     "image": "MatiasRintaaho"
+  },
+  {
+    "firstName": "Mika",
+    "lastName": "Leväniemi",
+    "type": "other",
+    "image": "Veto"
   },
   {
     "firstName": "Mikko",
@@ -66,9 +102,27 @@
     "image": "MikkoKanala"
   },
   {
+    "firstName": "Mikko",
+    "lastName": "Liikala",
+    "type": "other",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Mikko",
+    "lastName": "Pajala",
+    "type": "media",
+    "image": "Veto"
+  },
+  {
     "firstName": "Olli",
     "lastName": "Heikkala",
     "type": "player",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Osku",
+    "lastName": "Järvelä",
+    "type": "other",
     "image": "Veto"
   },
   {
@@ -82,6 +136,18 @@
     "lastName": "Ruuska",
     "type": "player",
     "image": "PerttuRuuska"
+  },
+  {
+    "firstName": "Pirkka-Pekka",
+    "lastName": "Ylisuutari",
+    "type": "media",
+    "image": "Veto"
+  },
+  {
+    "firstName": "Raimo",
+    "lastName": "Koskela",
+    "type": "other",
+    "image": "Veto"
   },
   {
     "firstName": "Sami",
