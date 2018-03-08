@@ -3,192 +3,258 @@
     "firstName": "Aleksi",
     "lastName": "Rantala",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Arttu",
     "lastName": "Ruuska",
     "type": "player",
-    "image": "ArttuRuuska"
+    "image": "ArttuRuuska",
+    "description": [
+    ]
   },
   {
     "firstName": "Elmeri",
     "lastName": "Anttila",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Heikki",
     "lastName": "Seppä",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Henri",
     "lastName": "Puputti",
     "type": "player",
-    "image": "HenriPuputti"
+    "image": "HenriPuputti",
+    "description": [
+    ]
   },
   {
     "firstName": "Jani",
     "lastName": "Kaunisto",
     "type": "media",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Janne",
     "lastName": "Heimonen",
     "type": "player",
-    "image": "JanneHeimonen"
+    "image": "JanneHeimonen",
+    "description": [
+      "Perheen kolmas Veto-lukkari sai kauden 2017 päätteeksi viimein ansaitsemaansa arvostusta Vuoden lukkari -palkinnon muodossa.",
+      "Lautasvelho loistaa peliälyllään, ja yllättäviä ratkaisuja saatetaan nähdä myös mailan varressa."
+    ]
   },
   {
     "firstName": "Janne",
     "lastName": "Mäkelä",
     "type": "player",
-    "image": "JanneMakela"
+    "image": "JanneMakela",
+    "description": [
+    ]
   },
   {
     "firstName": "Jere",
     "lastName": "Saukko",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Joonas",
     "lastName": "Suominen",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Jussi",
     "lastName": "Järvinen",
     "type": "coach",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Kari",
     "lastName": "Kleemola",
     "type": "coach",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Marja-Liisa",
     "lastName": "Kivipelto",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Matias",
     "lastName": "Rinta-aho",
     "type": "player",
-    "image": "MatiasRintaaho"
+    "image": "MatiasRintaaho",
+    "description": [
+    ]
   },
   {
     "firstName": "Mika",
     "lastName": "Leväniemi",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Mikko",
     "lastName": "Haukkala",
     "type": "player",
-    "image": "MikkoHaukkala"
+    "image": "MikkoHaukkala",
+    "description": [
+    ]
   },
   {
     "firstName": "Mikko",
     "lastName": "Kanala",
     "type": "player",
-    "image": "MikkoKanala"
+    "image": "MikkoKanala",
+    "description": [
+    ]
   },
   {
     "firstName": "Mikko",
     "lastName": "Liikala",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Mikko",
     "lastName": "Pajala",
     "type": "media",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Olli",
     "lastName": "Heikkala",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Osku",
     "lastName": "Järvelä",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Pasi",
     "lastName": "Tyynelä",
     "type": "2PJ",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Perttu",
     "lastName": "Ruuska",
     "type": "player",
-    "image": "PerttuRuuska"
+    "image": "PerttuRuuska",
+    "description": [
+    ]
   },
   {
     "firstName": "Pirkka-Pekka",
     "lastName": "Ylisuutari",
     "type": "media",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Raimo",
     "lastName": "Koskela",
     "type": "other",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Sami",
     "lastName": "Haapakoski",
     "type": "player",
-    "image": "SamiHaapakoski"
+    "image": "SamiHaapakoski",
+    "description": [
+    ]
   },
   {
     "firstName": "Sami-Petteri",
     "lastName": "Kivimäki",
     "type": "1PJ",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Severi",
     "lastName": "Lassila",
     "type": "player",
-    "image": "SeveriLassila"
+    "image": "SeveriLassila",
+    "description": [
+    ]
   },
   {
     "firstName": "Taneli",
     "lastName": "Lassila",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Teemu",
     "lastName": "Isoketo",
     "type": "player",
-    "image": "TeemuIsoketo"
+    "image": "TeemuIsoketo",
+    "description": [
+    ]
   },
   {
     "firstName": "Timo",
     "lastName": "Hanhisalo",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   },
   {
     "firstName": "Ville",
     "lastName": "Takala",
     "type": "player",
-    "image": "Veto"
+    "image": "Veto",
+    "description": [
+    ]
   }
 ]
