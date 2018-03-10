@@ -3,7 +3,8 @@
     "firstName": "Aleksi",
     "lastName": "Rantala",
     "type": "player",
-    "image": "Veto",
+    "image": "AleksiRantala",
+    "pmPelaajaId": "8311",
     "description": [
     ]
   },
@@ -12,6 +13,7 @@
     "lastName": "Ruuska",
     "type": "player",
     "image": "ArttuRuuska",
+    "pmPelaajaId": "6064",
     "description": [
     ]
   },
@@ -20,6 +22,7 @@
     "lastName": "Anttila",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "8573",
     "description": [
     ]
   },
@@ -36,6 +39,7 @@
     "lastName": "Puputti",
     "type": "player",
     "image": "HenriPuputti",
+    "pmPelaajaId": "1315",
     "description": [
     ]
   },
@@ -52,6 +56,7 @@
     "lastName": "Heimonen",
     "type": "player",
     "image": "JanneHeimonen",
+    "pmPelaajaId": "6059",
     "description": [
       "Perheen kolmas Veto-lukkari sai kauden 2017 päätteeksi viimein ansaitsemaansa arvostusta Vuoden lukkari -palkinnon muodossa.",
       "Lautasvelho loistaa peliälyllään, ja yllättäviä ratkaisuja saatetaan nähdä myös mailan varressa."
@@ -62,6 +67,7 @@
     "lastName": "Mäkelä",
     "type": "player",
     "image": "JanneMakela",
+    "pmPelaajaId": "3509",
     "description": [
     ]
   },
@@ -70,6 +76,7 @@
     "lastName": "Saukko",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "6311",
     "description": [
     ]
   },
@@ -77,8 +84,11 @@
     "firstName": "Joonas",
     "lastName": "Suominen",
     "type": "player",
-    "image": "Veto",
+    "image": "JoonasSuominen",
+    "pmPelaajaId": "7219",
     "description": [
+      "Joonas on uusi pelaajia Vimpelin joukkueessa",
+      "Hän on tunnettu tulisesta asenteestaan."
     ]
   },
   {
@@ -110,6 +120,7 @@
     "lastName": "Rinta-aho",
     "type": "player",
     "image": "MatiasRintaaho",
+    "pmPelaajaId": "5653",
     "description": [
     ]
   },
@@ -126,6 +137,7 @@
     "lastName": "Haukkala",
     "type": "player",
     "image": "MikkoHaukkala",
+    "pmPelaajaId": "2924",
     "description": [
     ]
   },
@@ -134,6 +146,7 @@
     "lastName": "Kanala",
     "type": "player",
     "image": "MikkoKanala",
+    "pmPelaajaId": "6131",
     "description": [
     ]
   },
@@ -158,6 +171,7 @@
     "lastName": "Heikkala",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "7480",
     "description": [
     ]
   },
@@ -182,6 +196,7 @@
     "lastName": "Ruuska",
     "type": "player",
     "image": "PerttuRuuska",
+    "pmPelaajaId": "8574",
     "description": [
     ]
   },
@@ -206,6 +221,7 @@
     "lastName": "Haapakoski",
     "type": "player",
     "image": "SamiHaapakoski",
+    "pmPelaajaId": "1232",
     "description": [
     ]
   },
@@ -222,6 +238,7 @@
     "lastName": "Lassila",
     "type": "player",
     "image": "SeveriLassila",
+    "pmPelaajaId": "5985",
     "description": [
     ]
   },
@@ -230,6 +247,7 @@
     "lastName": "Lassila",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "4579",
     "description": [
     ]
   },
@@ -238,6 +256,7 @@
     "lastName": "Isoketo",
     "type": "player",
     "image": "TeemuIsoketo",
+    "pmPelaajaId": "1620",
     "description": [
     ]
   },
@@ -246,6 +265,7 @@
     "lastName": "Hanhisalo",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "6778",
     "description": [
     ]
   },
@@ -254,6 +274,7 @@
     "lastName": "Takala",
     "type": "player",
     "image": "Veto",
+    "pmPelaajaId": "246",
     "description": [
     ]
   }
