@@ -21,7 +21,7 @@
     "firstName": "Elmeri",
     "lastName": "Anttila",
     "type": "player",
-    "image": "Veto",
+    "image": "ElmeriAnttila",
     "pmPelaajaId": "8573",
     "description": [
     ]
@@ -75,7 +75,7 @@
     "firstName": "Jere",
     "lastName": "Saukko",
     "type": "player",
-    "image": "Veto",
+    "image": "JereSaukko",
     "pmPelaajaId": "6311",
     "description": [
     ]
@@ -187,7 +187,7 @@
     "firstName": "Pasi",
     "lastName": "Tyynelä",
     "type": "2PJ",
-    "image": "Veto",
+    "image": "PasiTyynela",
     "description": [
     ]
   },
@@ -229,7 +229,7 @@
     "firstName": "Sami-Petteri",
     "lastName": "Kivimäki",
     "type": "1PJ",
-    "image": "Veto",
+    "image": "SamiPetteriKivimaki",
     "description": [
     ]
   },
@@ -246,7 +246,7 @@
     "firstName": "Taneli",
     "lastName": "Lassila",
     "type": "player",
-    "image": "Veto",
+    "image": "TaneliLassila",
     "pmPelaajaId": "4579",
     "description": [
     ]
@@ -264,7 +264,7 @@
     "firstName": "Timo",
     "lastName": "Hanhisalo",
     "type": "player",
-    "image": "Veto",
+    "image": "TimoHanhisalo",
     "pmPelaajaId": "6778",
     "description": [
     ]
@@ -273,7 +273,7 @@
     "firstName": "Ville",
     "lastName": "Takala",
     "type": "player",
-    "image": "Veto",
+    "image": "VilleTakala",
     "pmPelaajaId": "246",
     "description": [
     ]
